@@ -1,0 +1,1501 @@
+age,gender,blood_type,medical_condition,date_of_admission,hospital,billing_amount,admission_type,discharge_date,length_of_stay
+30,Male,B-,cancer,1/31/2024,sons and miller,18856.28131,urgent,2/2/2024,2
+62,Male,A+,obesity,8/20/2019,kim inc,33643.32729,emergency,8/26/2019,6
+76,Female,A-,obesity,9/22/2022,cook plc,27955.09608,emergency,10/7/2022,15
+28,Female,O+,diabetes,11/18/2020,"hernandez rogers and vang,",37909.78241,elective,12/18/2020,30
+43,Female,AB+,cancer,9/19/2022,white-white,14238.31781,urgent,10/9/2022,20
+36,Male,A+,asthma,12/20/2023,nunez-humphrey,48145.11095,urgent,12/24/2023,4
+21,Female,AB-,diabetes,11/3/2020,group middleton,19580.87234,emergency,11/15/2020,12
+20,Female,A+,cancer,12/28/2021,"powell robinson and valdez,",45820.46272,emergency,1/7/2022,10
+82,Male,AB+,asthma,7/1/2020,sons rich and,50119.22279,elective,7/14/2020,13
+58,Female,AB-,cancer,5/23/2021,padilla-walker,19784.63106,elective,6/22/2021,30
+72,Male,O+,cancer,4/19/2020,schaefer-porter,12576.79561,urgent,4/22/2020,3
+38,Female,A-,hypertension,8/13/2023,lyons-blair,7999.58688,urgent,9/5/2023,23
+75,Female,A+,diabetes,12/12/2019,"powers miller, and flores",43282.28336,emergency,12/28/2019,16
+68,Female,AB+,asthma,5/22/2020,rivera-gutierrez,33207.70663,urgent,6/19/2020,28
+44,Female,AB+,cancer,10/8/2021,morris-arellano,40701.59923,urgent,10/13/2021,5
+46,Female,AB-,obesity,1/1/2023,cline-williams,12263.35743,elective,1/11/2023,10
+63,Female,A+,arthritis,6/23/2020,cervantes-wells,24499.8479,elective,7/14/2020,21
+38,Male,AB-,obesity,3/8/2020,"torres, and harrison jones",17440.46544,urgent,4/2/2020,25
+34,Female,A-,hypertension,3/4/2021,houston plc,18843.02302,elective,3/14/2021,10
+63,Male,B+,asthma,11/15/2022,hammond ltd,23762.20358,elective,11/22/2022,7
+67,Female,A-,asthma,6/28/2023,jones llc,42.51458855,elective,7/2/2023,4
+48,Male,B+,asthma,1/21/2020,williams-davis,17695.91162,urgent,2/9/2020,19
+58,Female,O+,arthritis,5/12/2022,clark-mayo,5998.102908,urgent,6/10/2022,29
+59,Male,A+,asthma,8/2/2021,and sons smith,25250.05243,urgent,8/12/2021,10
+72,Female,AB+,hypertension,5/15/2020,wilson group,33211.29542,emergency,6/8/2020,24
+73,Male,AB+,obesity,5/15/2020,garner-bowman,19746.83201,urgent,5/20/2020,5
+51,Female,O-,asthma,12/23/2023,"brown, and jones weaver",26786.52956,elective,1/19/2024,27
+34,Female,A+,diabetes,6/21/2022,serrano-dixon,18834.80134,emergency,6/30/2022,9
+38,Female,O-,hypertension,1/3/2021,gardner-miller,32643.29935,emergency,1/16/2021,13
+63,Female,B+,hypertension,10/3/2023,guerrero-boone,5767.011054,elective,10/12/2023,9
+34,Male,B-,asthma,8/18/2019,hart ltd,47909.12881,urgent,9/1/2019,14
+23,Female,A+,arthritis,11/3/2019,cruz-santiago,25835.32359,urgent,11/29/2019,26
+78,Male,AB-,arthritis,5/18/2023,group duncan,17993.2262,elective,6/15/2023,28
+43,Male,AB-,cancer,5/24/2023,lopez-phillips,21185.95353,elective,6/3/2023,10
+30,Female,AB+,diabetes,1/17/2020,poole inc,8408.949354,emergency,2/10/2020,24
+25,Female,AB+,asthma,1/7/2021,sons and cox,45453.41855,elective,1/26/2021,19
+33,Male,AB+,diabetes,10/14/2019,llc martin,4397.776995,urgent,10/19/2019,5
+26,Female,B-,hypertension,12/19/2021,espinoza-stone,9380.325968,urgent,1/16/2022,28
+70,Female,O-,diabetes,3/12/2022,"and garcia morris cunningham,",48290.69341,emergency,3/29/2022,17
+57,Female,B-,obesity,1/17/2021,walton-meyer,32973.94083,urgent,1/29/2021,12
+74,Female,B-,hypertension,9/15/2021,plc young,49943.2785,emergency,10/5/2021,20
+81,Male,A+,hypertension,1/27/2020,meadows group,35633.95545,urgent,2/9/2020,13
+49,Female,A-,asthma,6/24/2022,"and howell brooks, rogers",25966.32861,elective,7/18/2022,24
+26,Female,AB+,obesity,6/9/2021,"and mcclure white boone,",21784.44507,urgent,7/1/2021,22
+81,Female,AB-,cancer,8/23/2020,"gates brown, and stuart",42684.55888,urgent,9/8/2020,16
+65,Male,O+,cancer,10/12/2022,group armstrong,45585.88656,emergency,11/2/2022,21
+31,Female,O+,hypertension,12/1/2021,ltd schwartz,29615.44186,elective,12/9/2021,8
+58,Male,A-,diabetes,5/4/2020,nelson-phillips,36992.27369,urgent,5/13/2020,9
+22,Male,O+,hypertension,9/9/2023,"knight and nguyen, riggs",28051.49948,urgent,9/23/2023,14
+77,Female,O+,asthma,7/19/2019,lopez plc,16320.23245,urgent,7/29/2019,10
+30,Male,AB-,hypertension,4/5/2024,"fernandez and phillips, singh",30590.54181,emergency,4/22/2024,17
+42,Female,A-,cancer,6/15/2019,beck-galloway,14681.01636,emergency,7/5/2019,20
+67,Female,AB+,cancer,10/29/2022,"decker glover, and christensen",21879.53191,urgent,11/20/2022,22
+24,Female,A-,obesity,4/8/2022,"nelson walker myers, and",6767.634397,elective,4/13/2022,5
+84,Female,B-,asthma,8/17/2023,mitchell-navarro,19973.46293,elective,9/11/2023,25
+73,Female,A-,hypertension,11/5/2023,group delgado,14362.31449,emergency,11/7/2023,2
+55,Female,A+,cancer,4/9/2023,"and montes graves, thomas",10300.65731,emergency,4/21/2023,12
+23,Male,O-,hypertension,9/21/2022,hall-bentley,37951.66491,emergency,9/25/2022,4
+40,Female,AB-,cancer,1/21/2021,taylor-nguyen,6733.990947,urgent,2/6/2021,16
+51,Male,O+,hypertension,7/10/2020,hunter-grant,17839.74565,elective,7/20/2020,10
+83,Male,AB+,obesity,11/6/2019,miller-lawson,24637.09006,elective,11/22/2019,16
+63,Male,A-,asthma,4/7/2024,scott-kelly,39723.16605,emergency,5/4/2024,27
+18,Male,A+,cancer,7/6/2022,"moss and ferguson, baker",48407.38629,emergency,7/18/2022,12
+23,Female,B-,hypertension,8/3/2022,"and mason smith chase,",5517.393642,elective,8/10/2022,7
+58,Male,A-,hypertension,5/8/2020,"khan, and rodriguez fischer",19183.16889,emergency,6/1/2020,24
+27,Male,AB-,cancer,12/9/2019,sons watson and,8320.660803,urgent,12/21/2019,12
+59,Male,B+,diabetes,11/21/2019,rhodes-carey,10107.18765,emergency,12/8/2019,17
+27,Male,B-,hypertension,1/7/2023,bullock-ramsey,49402.29837,elective,1/27/2023,20
+31,Male,B+,diabetes,2/6/2024,"clark brown, and myers",35776.81511,emergency,2/10/2024,4
+19,Female,A+,arthritis,1/30/2020,"jackson and lane, dillon",20227.86373,elective,2/12/2020,13
+29,Female,O+,cancer,10/24/2022,"turner cook, banks and",19328.11858,urgent,11/7/2022,14
+18,Male,A-,obesity,1/9/2022,"miles, and weaver hudson",46956.54573,emergency,1/15/2022,6
+24,Male,AB-,cancer,12/28/2023,evans ltd,10709.69039,emergency,1/2/2024,5
+27,Male,AB-,diabetes,9/16/2021,sons and schaefer,45353.99078,urgent,10/14/2021,28
+57,Female,AB-,arthritis,7/24/2023,sons hodges and,8451.001758,elective,8/11/2023,18
+74,Female,A+,arthritis,11/13/2021,simpson-mccall,29850.87973,emergency,12/7/2021,24
+22,Female,A-,arthritis,10/11/2023,"lin thompson wells, and",42696.52116,urgent,10/27/2023,16
+33,Female,B-,diabetes,1/30/2021,jones-scott,2305.13914,emergency,2/4/2021,5
+57,Male,B+,arthritis,11/21/2021,howe-kelly,44437.47067,emergency,12/5/2021,14
+61,Male,B+,cancer,3/2/2024,and sons reyes,29504.38744,urgent,3/26/2024,24
+20,Male,O+,arthritis,12/4/2020,shaw-young,34617.78834,emergency,12/8/2020,4
+67,Male,AB+,hypertension,8/26/2020,inc skinner,46814.0112,urgent,8/27/2020,1
+80,Female,AB-,diabetes,11/12/2023,clark-johnson,20257.54428,elective,12/12/2023,30
+44,Male,O+,obesity,5/30/2020,perez and sons,22841.36388,emergency,6/14/2020,15
+26,Female,B-,asthma,5/12/2023,kemp llc,10283.71686,emergency,6/10/2023,29
+80,Male,AB+,cancer,7/7/2022,llc dixon,1586.476601,emergency,7/23/2022,16
+63,Male,B-,asthma,9/24/2020,"and morales jennings cook,",34774.35113,emergency,10/8/2020,14
+58,Female,B-,arthritis,8/19/2023,group hood,24870.10366,emergency,8/25/2023,6
+38,Female,A+,cancer,5/16/2023,lindsey inc,39476.94751,elective,6/1/2023,16
+60,Male,B+,hypertension,8/22/2022,ltd wang,26062.43432,elective,9/7/2022,16
+49,Male,B+,cancer,6/17/2022,inc ford,25302.11263,elective,6/28/2022,11
+80,Male,A+,diabetes,11/5/2022,dean-hawkins,10661.51065,emergency,11/25/2022,20
+35,Female,B+,diabetes,9/10/2021,walter plc,30358.19458,elective,9/18/2021,8
+84,Male,A+,asthma,9/6/2022,sons horn and,23684.52547,urgent,9/27/2022,21
+76,Male,A+,diabetes,4/17/2021,"powell ward, and mercado",3908.946568,elective,5/10/2021,23
+79,Female,A-,hypertension,8/19/2019,james ltd,25503.67381,elective,8/26/2019,7
+76,Female,O+,diabetes,3/24/2024,kemp-munoz,6312.607691,elective,4/14/2024,21
+55,Female,A+,diabetes,12/10/2022,henderson-taylor,21772.3414,elective,12/31/2022,21
+53,Male,B-,cancer,9/14/2022,"parsons, hartman martinez and",30437.00179,elective,9/18/2022,4
+18,Male,B+,asthma,10/18/2022,luna inc,28837.67705,elective,11/11/2022,24
+69,Male,O+,arthritis,11/13/2021,"hernandez, ritter and huffman",25425.72786,elective,11/21/2021,8
+70,Male,B+,diabetes,7/8/2022,reed llc,7187.272346,emergency,7/25/2022,17
+21,Male,A+,diabetes,6/25/2023,thompson-walker,3125.736477,urgent,7/11/2023,16
+47,Male,A-,diabetes,7/9/2019,group nguyen,31516.10073,elective,8/5/2019,27
+85,Male,A-,arthritis,5/14/2021,newton-white,40014.76235,emergency,6/3/2021,20
+28,Male,O+,cancer,1/15/2024,ltd thomas,40782.92781,elective,2/7/2024,23
+62,Male,A-,obesity,9/30/2019,"pierce ward, torres and",3879.084602,elective,10/15/2019,15
+49,Female,B-,arthritis,3/5/2021,"evans and hall schneider,",24948.47782,emergency,3/20/2021,15
+52,Male,AB-,hypertension,5/14/2021,stout-brown,37734.74218,elective,6/6/2021,23
+53,Male,B+,cancer,6/8/2023,cruz ltd,27360.46189,elective,7/5/2023,27
+55,Male,AB-,asthma,5/13/2022,stewart sons and,37405.69653,elective,5/20/2022,7
+18,Male,B-,arthritis,9/22/2022,"hall roberts and duarte,",31485.97316,emergency,10/14/2022,22
+52,Male,AB-,hypertension,8/25/2023,ramirez-robinson,23737.39932,urgent,9/18/2023,24
+67,Male,AB-,obesity,6/2/2019,"garcia, and bishop hernandez",3326.382675,emergency,6/4/2019,2
+82,Female,A+,hypertension,11/19/2021,"and brown oneal, shah",23067.67217,elective,12/12/2021,23
+37,Female,O+,asthma,12/2/2019,group white,8521.214253,elective,12/13/2019,11
+52,Female,AB-,cancer,8/21/2020,"hughes and erickson, anderson",47985.16734,elective,9/6/2020,16
+37,Female,B+,asthma,2/12/2021,lane-kelly,25230.24688,elective,3/11/2021,27
+83,Female,A+,diabetes,1/13/2024,cox-hester,10352.20849,urgent,1/22/2024,9
+33,Male,O-,arthritis,12/26/2021,"jarvis scott, fleming and",6175.867249,urgent,1/12/2022,17
+22,Female,A-,obesity,8/22/2022,cline-carpenter,23499.93625,urgent,9/7/2022,16
+19,Female,B+,cancer,7/3/2021,"johnson, and ross harris",33681.57264,elective,7/31/2021,28
+85,Female,O+,obesity,5/31/2020,"kim rosario, and hammond",39957.94062,urgent,6/1/2020,1
+19,Male,B+,cancer,10/26/2020,plc jimenez,49833.70772,elective,11/17/2020,22
+50,Female,B-,asthma,6/3/2021,cantu-berry,48175.46612,urgent,7/1/2021,28
+50,Female,O-,obesity,10/24/2020,wright-alexander,40133.96739,urgent,11/13/2020,20
+40,Male,O+,obesity,8/27/2019,guzman-carlson,9585.952128,urgent,9/6/2019,10
+57,Male,AB-,obesity,11/30/2021,meyer-hill,40693.35422,emergency,12/9/2021,9
+82,Male,AB+,obesity,10/15/2023,dudley-atkinson,16399.26576,emergency,11/8/2023,24
+20,Male,AB+,diabetes,3/17/2024,kelly-allen,44939.56552,emergency,3/28/2024,11
+20,Male,B+,hypertension,10/13/2019,"lewis livingston, lowe and",10663.91001,emergency,10/16/2019,3
+19,Female,A-,hypertension,3/2/2020,rodriguez ltd,22564.78798,elective,3/7/2020,5
+32,Female,AB-,cancer,11/5/2019,"and johnson moore, branch",-502.5078127,urgent,11/23/2019,18
+55,Male,B-,diabetes,2/7/2021,"holmes and hughes, phillips",34758.25675,emergency,3/5/2021,26
+81,Male,B+,hypertension,10/25/2021,"and smith, tucker cross",46377.86515,urgent,11/22/2021,28
+26,Male,O-,hypertension,7/24/2022,sons and lozano,7555.772965,elective,7/31/2022,7
+54,Female,AB+,cancer,3/4/2020,russell ltd,14299.99345,emergency,3/5/2020,1
+57,Male,B-,arthritis,8/1/2021,jones ltd,46429.5082,elective,8/19/2021,18
+38,Female,AB+,asthma,1/24/2020,gordon-ward,17978.95074,elective,2/12/2020,19
+54,Male,O+,obesity,7/30/2021,barnes and sons,32629.06775,elective,8/13/2021,14
+42,Male,A+,diabetes,1/4/2024,levine-miller,22356.22649,urgent,2/3/2024,30
+20,Male,O-,diabetes,1/5/2024,"and marquez silva smith,",48995.98059,elective,2/4/2024,30
+44,Female,O-,hypertension,8/11/2020,jackson-copeland,4532.483554,emergency,9/4/2020,24
+54,Male,B+,diabetes,6/17/2022,"perez and ochoa white,",35521.58215,elective,6/24/2022,7
+21,Female,AB-,arthritis,4/2/2022,ltd conrad,1589.503523,emergency,4/9/2022,7
+45,Female,AB+,diabetes,6/3/2020,hampton-thomas,22950.65114,elective,6/22/2020,19
+68,Female,B+,arthritis,8/16/2019,thomas-kelley,2678.953936,urgent,8/21/2019,5
+27,Male,A+,hypertension,2/22/2024,myers-monroe,39615.60066,urgent,2/24/2024,2
+42,Male,AB-,asthma,5/6/2021,"and ford lee, rodriguez",13355.78209,elective,5/29/2021,23
+27,Female,B-,asthma,10/27/2021,sons garcia and,32561.53041,elective,11/4/2021,8
+80,Male,B+,asthma,9/1/2020,"perry little, and moore",29221.34021,emergency,9/17/2020,16
+21,Male,O+,diabetes,5/26/2021,anderson group,12880.65241,urgent,6/22/2021,27
+84,Female,A-,obesity,6/22/2022,rodriguez and sons,15475.40324,elective,7/22/2022,30
+67,Female,O-,arthritis,5/17/2023,thomas-huber,27309.43676,elective,5/31/2023,14
+66,Male,AB+,arthritis,6/23/2021,robinson inc,1897.891727,elective,7/9/2021,16
+37,Female,A-,cancer,11/17/2023,wood-mathews,31308.20601,urgent,11/25/2023,8
+30,Female,A-,diabetes,10/11/2020,"walker and gardner fernandez,",42792.24128,elective,10/21/2020,10
+78,Male,O+,diabetes,8/10/2021,"smith and johnston, collins",14377.33432,emergency,8/27/2021,17
+39,Female,A+,diabetes,8/29/2023,sons miller and,1150.874986,urgent,9/7/2023,9
+29,Male,O-,asthma,2/27/2020,donaldson-frey,41939.11994,elective,3/26/2020,28
+81,Female,AB-,cancer,7/7/2021,brown-yoder,41982.3744,elective,7/15/2021,8
+66,Female,AB-,obesity,6/3/2022,"morgan rios and keller,",33861.01863,elective,6/27/2022,24
+65,Male,B-,asthma,2/20/2020,gonzalez-king,49321.15763,emergency,3/1/2020,10
+80,Male,AB-,asthma,2/5/2021,wagner ltd,47433.27865,elective,3/5/2021,28
+72,Female,O-,arthritis,10/24/2020,"and brown white, jones",19065.06089,emergency,11/2/2020,9
+85,Male,O-,cancer,12/6/2023,james-smith,50142.02695,elective,12/19/2023,13
+68,Female,O+,hypertension,12/21/2021,hanson group,12081.67903,urgent,12/30/2021,9
+56,Female,A-,cancer,9/3/2023,mcclain-reed,18030.79078,elective,9/30/2023,27
+53,Female,O-,asthma,10/18/2020,young-smith,5142.163763,elective,11/10/2020,23
+37,Female,B+,asthma,7/7/2021,hart-brock,19851.24293,elective,7/24/2021,17
+57,Female,O+,hypertension,8/28/2023,"jones and jones, turner",20545.87176,urgent,9/16/2023,19
+36,Male,O+,arthritis,11/17/2019,spears-shah,36869.72574,urgent,12/1/2019,14
+20,Female,B+,cancer,11/22/2020,"and anderson smith sanchez,",40598.42257,elective,12/17/2020,25
+83,Male,O-,asthma,11/13/2021,"tran, and ferrell garcia",18198.05852,urgent,12/8/2021,25
+79,Male,B+,obesity,2/13/2022,ltd walton,4920.041189,elective,2/20/2022,7
+62,Male,O+,diabetes,5/16/2019,group rodriguez,3864.139499,urgent,5/31/2019,15
+38,Male,AB+,asthma,8/4/2021,carr llc,21562.86105,urgent,8/26/2021,22
+75,Female,B-,cancer,1/3/2020,rodriguez-guerra,11815.20274,elective,1/27/2020,24
+28,Male,A+,hypertension,9/13/2022,"sullivan mullins, macias and",25796.86967,urgent,10/7/2022,24
+36,Male,O-,hypertension,12/19/2020,ballard plc,4266.784307,emergency,1/9/2021,21
+54,Male,AB+,obesity,3/31/2023,liu-wilson,4751.162741,urgent,4/29/2023,29
+81,Female,B-,diabetes,5/8/2020,llc lewis,17968.49599,emergency,5/28/2020,20
+56,Female,AB+,obesity,7/31/2023,"stokes chambers and martin,",11311.32735,urgent,8/2/2023,2
+30,Male,AB-,hypertension,1/9/2022,hernandez-green,47242.2243,emergency,1/12/2022,3
+64,Female,A-,diabetes,12/16/2023,inc lee,17670.50522,elective,1/15/2024,30
+76,Male,A+,obesity,12/5/2020,wilkins group,5714.748018,elective,12/18/2020,13
+21,Female,AB+,diabetes,11/11/2021,valentine ltd,5985.978487,urgent,12/4/2021,23
+59,Female,O+,obesity,9/11/2019,alvarado-deleon,27385.73623,emergency,9/15/2019,4
+31,Female,A-,diabetes,12/15/2020,"alexander and jensen andrews,",3730.002191,urgent,1/1/2021,17
+36,Female,O+,asthma,12/8/2022,"and black, henson rhodes",22480.96593,elective,1/2/2023,25
+42,Female,B+,diabetes,7/15/2021,sons and marshall,35022.31671,elective,8/5/2021,21
+18,Female,AB+,asthma,6/16/2022,rodriguez-franco,45072.41826,urgent,7/4/2022,18
+62,Female,A+,obesity,2/9/2024,"fritz henderson stanton, and",45902.70764,urgent,2/19/2024,10
+53,Male,AB+,hypertension,3/4/2024,west-young,28899.18576,emergency,3/18/2024,14
+82,Female,A+,obesity,2/11/2022,ltd solis,39003.18144,elective,2/25/2022,14
+19,Female,O-,diabetes,2/8/2022,mcneil-blake,10348.81852,emergency,2/17/2022,9
+83,Female,A-,hypertension,6/15/2023,moore-waters,14371.5397,urgent,6/30/2023,15
+26,Male,O-,diabetes,10/11/2021,group scott,13769.40313,urgent,10/24/2021,13
+51,Male,O+,arthritis,12/12/2021,and simmons sons,35868.53864,elective,12/30/2021,18
+20,Male,O+,obesity,7/9/2023,"humphrey and browning fitzgerald,",35205.2846,emergency,7/15/2023,6
+61,Female,A-,obesity,9/8/2020,adams-molina,21576.50235,emergency,10/3/2020,25
+44,Male,AB-,hypertension,8/31/2020,guzman llc,18771.01069,urgent,9/18/2020,18
+74,Female,AB+,cancer,4/10/2024,gonzalez-pacheco,21668.56451,emergency,5/3/2024,23
+82,Female,B-,diabetes,8/10/2021,"hunt, carlson and cherry",36339.81908,elective,9/9/2021,30
+83,Male,O-,diabetes,1/25/2022,ltd barnes,40825.18442,elective,1/28/2022,3
+62,Female,AB-,cancer,9/12/2023,"gordon, fox lane and",40469.56626,elective,10/12/2023,30
+62,Female,B-,obesity,8/5/2020,petersen ltd,25749.52084,elective,8/14/2020,9
+18,Male,A-,asthma,5/7/2022,and mcdonald sons,15841.20168,urgent,6/3/2022,27
+66,Male,A+,arthritis,2/13/2022,"smith, elliott and blackburn",36086.57208,urgent,2/23/2022,10
+26,Female,AB+,asthma,3/3/2024,plc oliver,32085.22765,urgent,3/27/2024,24
+45,Female,B+,cancer,3/14/2020,"griffin and lyons rivers,",12356.56065,emergency,4/3/2020,20
+26,Male,AB-,asthma,2/7/2024,craig-garcia,15367.41132,emergency,2/24/2024,17
+26,Male,O+,cancer,7/21/2019,baker-jones,40190.20292,elective,8/5/2019,15
+79,Female,O+,diabetes,4/14/2023,duffy-kelly,3872.096985,elective,4/18/2023,4
+33,Female,B-,arthritis,1/17/2024,rodriguez-becker,3311.589106,elective,2/5/2024,19
+34,Female,O+,cancer,6/25/2019,group brown,18524.86664,urgent,6/30/2019,5
+76,Female,AB-,hypertension,5/20/2021,powers-vincent,30107.48704,emergency,6/12/2021,23
+50,Female,B-,obesity,4/3/2020,"and ramos brown edwards,",15826.10128,emergency,4/11/2020,8
+44,Male,B-,diabetes,1/21/2020,johnson group,26437.77463,emergency,1/30/2020,9
+38,Female,AB-,arthritis,12/2/2021,atkins inc,49663.45287,emergency,12/7/2021,5
+43,Male,AB+,cancer,5/28/2021,marshall llc,27278.23689,urgent,6/18/2021,21
+27,Female,AB+,hypertension,3/23/2020,ltd cruz,33170.43674,urgent,4/11/2020,19
+78,Male,A+,asthma,8/6/2022,harrison-parker,1791.389001,urgent,9/5/2022,30
+40,Male,A+,diabetes,3/9/2024,lee-clayton,31188.04149,elective,4/5/2024,27
+25,Male,AB-,arthritis,3/15/2022,mcdaniel and sons,13854.64576,elective,4/10/2022,26
+67,Female,AB+,obesity,8/8/2020,inc lynch,11870.90838,elective,8/14/2020,6
+47,Female,AB+,obesity,6/9/2019,"and mendoza rich morales,",25574.12762,elective,7/1/2019,22
+75,Male,AB-,arthritis,9/7/2019,proctor-jones,6132.404095,urgent,10/6/2019,29
+58,Female,A-,obesity,2/14/2021,"and ramirez figueroa may,",33343.90249,elective,2/26/2021,12
+26,Female,A-,hypertension,11/10/2019,michael-jenkins,43484.24975,urgent,11/26/2019,16
+22,Male,O+,obesity,4/16/2023,hardy inc,7858.92686,urgent,5/14/2023,28
+29,Female,B+,asthma,4/25/2020,"turner, and williams mercado",33161.9384,urgent,4/28/2020,3
+30,Male,A-,cancer,8/21/2021,plc williams,2879.460532,urgent,8/28/2021,7
+22,Female,O+,asthma,1/14/2021,evans ltd,46492.86177,elective,1/27/2021,13
+34,Male,AB+,hypertension,9/12/2020,merritt-gray,5259.27305,elective,9/26/2020,14
+20,Male,AB+,arthritis,3/27/2020,"huang travis thomas, and",2784.58249,emergency,4/16/2020,20
+37,Female,A-,arthritis,7/26/2019,rodriguez-zimmerman,13418.21637,emergency,8/17/2019,22
+25,Female,A+,cancer,12/7/2023,miller plc,36990.45578,urgent,12/14/2023,7
+45,Female,B-,cancer,6/11/2021,"may, mullins and martin",43567.14416,urgent,7/3/2021,22
+18,Male,O-,diabetes,2/11/2022,moore-robbins,35570.07656,emergency,2/23/2022,12
+56,Male,O+,arthritis,9/12/2020,ltd howard,6848.130427,emergency,9/22/2020,10
+44,Male,AB-,asthma,5/25/2020,group crosby,4677.595847,emergency,6/5/2020,11
+34,Male,O+,hypertension,9/25/2023,cook ltd,35157.17027,elective,10/21/2023,26
+26,Male,B+,obesity,6/22/2022,"rivas, mcconnell hill and",34719.17385,elective,7/20/2022,28
+32,Male,O+,obesity,1/12/2020,conner-flores,23775.44901,elective,1/19/2020,7
+64,Male,B+,arthritis,7/29/2022,suarez-nelson,17732.46937,urgent,8/7/2022,9
+80,Male,A-,asthma,2/20/2023,"and walker glenn, long",3845.397496,emergency,3/10/2023,18
+80,Male,A-,cancer,7/14/2021,plc anderson,22401.55035,elective,7/24/2021,10
+37,Female,O+,hypertension,4/17/2024,blackwell-gamble,23340.30472,urgent,5/7/2024,20
+52,Female,A+,hypertension,2/4/2021,wagner plc,3042.409184,urgent,2/28/2021,24
+83,Female,O-,diabetes,9/2/2021,goodman-kelly,41817.67918,urgent,9/19/2021,17
+28,Female,B-,arthritis,9/10/2022,"and boyd powell, sims",49700.32421,elective,10/1/2022,21
+63,Male,A+,diabetes,11/25/2022,"and conrad boyd, burnett",45157.47112,elective,12/20/2022,25
+85,Male,O-,asthma,8/4/2023,ayala-armstrong,18832.10034,emergency,8/12/2023,8
+37,Male,O-,hypertension,11/20/2020,"and lambert white, vargas",31732.13008,elective,12/6/2020,16
+22,Male,AB-,diabetes,10/23/2019,group doyle,42214.9797,urgent,11/9/2019,17
+80,Female,AB+,arthritis,10/17/2020,henderson-johnson,12400.2051,elective,10/29/2020,12
+48,Female,O+,arthritis,12/27/2022,"baker conrad and andrews,",1133.586476,urgent,12/31/2022,4
+29,Male,B+,obesity,6/16/2023,"perkins, salazar and johnson",24340.32286,emergency,7/14/2023,28
+76,Male,A+,arthritis,11/6/2023,johnson-perez,39390.93555,elective,11/21/2023,15
+23,Female,A+,hypertension,12/26/2023,powell-werner,17012.5074,elective,1/22/2024,27
+33,Male,B-,asthma,2/10/2023,morales group,14493.6139,emergency,3/5/2023,23
+34,Male,O+,hypertension,7/1/2020,"and fernandez, wilson morrison",32679.26859,emergency,7/10/2020,9
+44,Female,AB+,obesity,9/21/2023,mayo and sons,6232.001787,emergency,9/25/2023,4
+84,Male,B+,diabetes,11/25/2020,"huffman hall orozco, and",22982.25212,urgent,12/2/2020,7
+25,Female,A+,cancer,7/10/2020,white-buchanan,28213.81547,urgent,7/18/2020,8
+42,Male,B-,arthritis,12/24/2022,"and dixon taylor hunter,",10645.56585,emergency,1/6/2023,13
+57,Male,B+,arthritis,10/5/2019,"anderson and medina, sullivan",35041.03097,elective,10/20/2019,15
+75,Female,O-,arthritis,3/13/2022,plc dixon,45980.29229,emergency,3/26/2022,13
+24,Female,AB+,obesity,5/15/2020,bowman-keith,25163.82248,elective,6/10/2020,26
+43,Female,AB-,asthma,12/2/2020,tyler plc,43670.37819,elective,12/23/2020,21
+22,Male,AB+,asthma,1/8/2024,velazquez-patton,33706.59767,emergency,1/15/2024,7
+64,Female,AB-,arthritis,8/16/2019,bass inc,5549.785436,emergency,9/6/2019,21
+66,Female,AB+,arthritis,3/23/2023,"newton, smith ruiz and",49078.46901,elective,4/19/2023,27
+19,Male,O+,obesity,1/20/2020,graham-fisher,23687.99364,emergency,2/11/2020,22
+79,Female,B-,diabetes,1/23/2024,scott ltd,17720.31873,elective,2/22/2024,30
+76,Male,B-,asthma,12/20/2022,rosales-sweeney,27361.24968,emergency,1/2/2023,13
+37,Female,A+,obesity,8/10/2021,"larson andrews, and lynch",39265.64605,elective,9/3/2021,24
+62,Male,O-,arthritis,11/23/2020,plc york,32868.08277,emergency,11/28/2020,5
+80,Male,A-,asthma,2/10/2020,kelly-watson,22032.38959,emergency,2/29/2020,19
+49,Female,A+,diabetes,6/4/2019,"smith gonzalez robinson, and",43165.69409,elective,6/17/2019,13
+66,Female,O+,obesity,9/24/2023,cook-taylor,1870.60844,emergency,10/11/2023,17
+50,Male,B-,diabetes,8/16/2021,robinson-reyes,50254.20183,elective,8/20/2021,4
+39,Male,AB-,arthritis,7/6/2020,reid inc,23159.66303,elective,7/22/2020,16
+31,Female,B-,diabetes,12/7/2022,"kemp and taylor, jones",11469.39059,elective,12/29/2022,22
+84,Male,AB-,cancer,12/29/2023,richards-mack,35435.17015,elective,1/16/2024,18
+71,Male,O-,cancer,2/16/2023,"and smith harmon, marshall",26139.78595,urgent,2/25/2023,9
+79,Male,B+,cancer,5/12/2022,"velasquez and walker russo,",21296.51873,emergency,5/16/2022,4
+56,Male,O+,arthritis,9/20/2023,"harrington, and owens preston",8421.915385,emergency,9/25/2023,5
+36,Male,O-,obesity,1/11/2020,downs plc,23892.55267,emergency,1/16/2020,5
+38,Male,O-,obesity,3/30/2022,"zhang long eaton, and",8171.462615,elective,4/26/2022,27
+21,Male,AB+,arthritis,5/11/2020,plc mills,23457.30929,elective,5/20/2020,9
+55,Female,O+,cancer,1/20/2022,"hoffman cox mcdonald, and",25787.43914,emergency,2/16/2022,27
+79,Female,A-,hypertension,11/13/2019,carpenter and sons,28525.52477,urgent,11/24/2019,11
+55,Male,AB-,arthritis,2/3/2021,"collins and moore chan,",17182.86981,emergency,2/20/2021,17
+24,Male,AB+,asthma,10/24/2020,"and wood lewis, monroe",20980.30306,elective,11/15/2020,22
+39,Female,O+,hypertension,10/3/2022,"and keller, ortega miller",4243.202644,urgent,10/6/2022,3
+63,Female,B+,cancer,12/24/2023,"austin, and reynolds duran",40137.78917,elective,1/2/2024,9
+26,Male,AB-,asthma,11/18/2023,lopez llc,30676.44176,elective,11/26/2023,8
+76,Female,AB+,hypertension,3/12/2024,clark-tran,45594.88907,urgent,4/9/2024,28
+69,Male,A+,cancer,4/12/2023,"villanueva and carter hughes,",29076.62961,urgent,5/7/2023,25
+38,Female,O+,obesity,6/16/2021,ltd osborn,5223.502081,emergency,7/11/2021,25
+19,Male,AB-,hypertension,11/24/2021,llc hodge,41840.65803,elective,12/13/2021,19
+61,Male,B-,obesity,7/6/2020,"lopez and shepard smith,",26504.86591,emergency,7/22/2020,16
+42,Female,AB-,arthritis,6/26/2022,"moss and meadows jones,",7946.129113,elective,7/1/2022,5
+57,Male,AB-,diabetes,7/21/2020,young-williams,18689.13845,urgent,7/31/2020,10
+36,Female,A-,arthritis,11/4/2019,"bailey morgan frey, and",30051.97507,urgent,12/3/2019,29
+68,Female,AB+,hypertension,11/1/2021,"neal price and smith,",22913.55425,urgent,11/3/2021,2
+25,Female,B+,obesity,11/17/2019,"and johnson hobbs owens,",36238.57685,elective,11/30/2019,13
+37,Female,B+,obesity,12/19/2022,melton inc,25217.45618,urgent,1/6/2023,18
+68,Male,A+,asthma,10/6/2020,and weber sons,41548.40831,urgent,10/20/2020,14
+81,Female,AB-,arthritis,1/16/2022,"chung rodriguez bradley, and",7562.39438,elective,1/22/2022,6
+74,Female,A+,asthma,7/6/2023,"white wilson and farmer,",386.0540547,elective,8/3/2023,28
+75,Male,O+,arthritis,6/12/2021,group thompson,31491.61471,urgent,6/15/2021,3
+74,Female,AB+,cancer,8/27/2019,and sons rangel,34224.34834,elective,9/1/2019,5
+28,Female,AB-,diabetes,5/17/2022,"travis, and richardson hampton",23673.72174,urgent,6/12/2022,26
+35,Male,AB+,hypertension,10/2/2020,"and wilson matthews, faulkner",40301.99731,elective,10/17/2020,15
+79,Female,O+,asthma,8/20/2021,group bailey,37116.16381,elective,9/16/2021,27
+59,Female,O-,asthma,11/5/2019,rosales-johnson,38606.9638,elective,11/17/2019,12
+84,Female,O-,arthritis,2/6/2024,bush-brown,17813.9305,emergency,2/28/2024,22
+36,Female,O-,asthma,2/7/2024,saunders-smith,20773.02332,urgent,2/21/2024,14
+69,Male,O+,arthritis,6/22/2023,"and mckay, morrow myers",9609.522307,urgent,7/11/2023,19
+54,Male,A-,cancer,11/19/2020,sherman-martinez,3771.237166,urgent,11/27/2020,8
+30,Female,O+,asthma,11/24/2021,"baker, weber patton and",51587.93682,emergency,12/7/2021,13
+31,Male,O-,cancer,7/26/2019,"and fitzgerald shaw, edwards",28456.69856,elective,7/29/2019,3
+81,Female,AB+,cancer,7/5/2022,kim-higgins,33870.1209,elective,7/8/2022,3
+61,Female,O+,diabetes,8/29/2019,"morgan, kramer munoz and",2303.998423,elective,9/7/2019,9
+52,Male,B+,hypertension,5/2/2024,harvey group,1878.007302,elective,5/21/2024,19
+25,Male,B+,asthma,5/26/2020,mercer-rogers,19160.99373,elective,5/31/2020,5
+56,Male,B+,cancer,3/20/2024,duran sons and,5811.629851,urgent,4/6/2024,17
+44,Male,O+,diabetes,3/27/2024,"vaughan parker and wagner,",22868.53034,elective,4/8/2024,12
+30,Female,O+,arthritis,3/22/2021,lee-jacobson,48281.91194,urgent,3/25/2021,3
+82,Male,O-,cancer,10/3/2020,"hayes robbins and gallagher,",30562.56763,emergency,10/28/2020,25
+67,Male,B+,obesity,5/17/2023,"evans and byrd, smith",24293.63303,emergency,5/31/2023,14
+41,Male,A+,arthritis,8/12/2022,and howell sons,5878.778853,emergency,8/31/2022,19
+84,Male,A-,arthritis,6/20/2020,"clements and scott, peters",28410.43877,urgent,6/22/2020,2
+85,Female,AB+,asthma,4/20/2023,gomez-olson,27414.0188,emergency,5/5/2023,15
+26,Female,A-,hypertension,10/28/2019,"and medina morgan, whitehead",5826.244027,emergency,11/21/2019,24
+49,Female,O+,diabetes,8/31/2021,miller llc,2133.737202,urgent,9/5/2021,5
+47,Female,A+,hypertension,7/14/2021,jones-aguirre,34262.60947,urgent,8/6/2021,23
+69,Male,A-,diabetes,1/21/2022,plc gonzalez,44897.04901,elective,2/2/2022,12
+78,Female,O+,asthma,9/16/2019,and davies sons,22230.12276,urgent,10/16/2019,30
+29,Male,AB+,diabetes,1/20/2023,soto-richmond,32895.10189,urgent,1/29/2023,9
+73,Male,A+,cancer,1/4/2020,"and morrison ho woods,",5349.056116,emergency,1/16/2020,12
+53,Male,AB-,obesity,3/3/2024,lewis and sons,23235.85441,elective,3/15/2024,12
+34,Male,AB+,diabetes,7/6/2019,wood-sandoval,25683.27986,elective,8/1/2019,26
+38,Female,AB-,obesity,12/1/2022,ball llc,45560.28184,elective,12/3/2022,2
+70,Female,B-,arthritis,5/10/2020,scott llc,16850.88631,urgent,5/30/2020,20
+59,Female,AB+,hypertension,3/10/2024,"and wright, long schroeder",34365.99712,elective,3/16/2024,6
+43,Male,AB+,arthritis,1/14/2020,ltd crawford,11968.02382,urgent,1/19/2020,5
+49,Male,B-,diabetes,6/7/2020,group moore,10076.89253,elective,6/26/2020,19
+63,Male,AB-,asthma,11/11/2020,burch-marks,44582.81736,elective,11/30/2020,19
+40,Female,O+,asthma,5/7/2021,koch-alvarado,30334.98907,urgent,5/31/2021,24
+80,Male,B-,arthritis,7/13/2021,"garcia edwards and daniel,",6196.635136,urgent,8/5/2021,23
+74,Female,B+,cancer,3/25/2024,carter-camacho,45438.90695,emergency,4/3/2024,9
+70,Male,O+,diabetes,3/25/2020,malone llc,43707.17924,urgent,4/2/2020,8
+39,Female,AB-,diabetes,5/14/2023,zamora plc,20105.02993,urgent,5/20/2023,6
+47,Female,AB+,diabetes,11/19/2022,ltd hernandez,11938.06769,urgent,11/23/2022,4
+49,Male,AB+,diabetes,3/10/2021,"gomez ray, and jones",10836.21122,emergency,3/30/2021,20
+64,Male,A-,obesity,11/15/2020,"davis, ray and thompson",40037.47999,urgent,11/20/2020,5
+40,Male,A+,asthma,1/28/2024,mckinney-edwards,42959.29981,elective,2/21/2024,24
+77,Male,A-,arthritis,7/7/2020,parker-shannon,40196.82528,urgent,8/5/2020,29
+61,Male,AB-,hypertension,1/22/2023,lawrence llc,39827.66342,elective,1/27/2023,5
+36,Female,A-,asthma,5/10/2020,"and thompson burke, harrington",3516.84785,emergency,5/24/2020,14
+19,Female,O+,diabetes,7/9/2021,"johnson goodman clark, and",25414.79593,elective,8/4/2021,26
+21,Male,O-,cancer,6/11/2020,"doyle hess, and dudley",36230.38776,elective,6/21/2020,10
+49,Male,AB-,asthma,4/21/2020,bass plc,22427.17414,emergency,5/9/2020,18
+62,Female,A+,obesity,10/6/2019,"willis and hunt pope,",39250.44744,urgent,11/4/2019,29
+54,Female,O-,hypertension,7/11/2020,"gray, hensley and hanson",5226.001297,urgent,7/31/2020,20
+22,Male,AB-,obesity,4/3/2022,moore-woods,7732.672265,elective,4/17/2022,14
+74,Male,A-,hypertension,1/21/2020,moore-franco,11304.00258,urgent,1/29/2020,8
+35,Female,A+,asthma,12/16/2022,hamilton and sons,38403.57658,elective,1/8/2023,23
+20,Male,B-,asthma,7/20/2022,burke group,14039.88614,emergency,7/29/2022,9
+18,Female,B-,cancer,7/25/2021,anderson llc,6958.697671,elective,7/28/2021,3
+55,Female,O+,cancer,7/19/2023,sims-jimenez,3254.03222,urgent,8/2/2023,14
+66,Male,B-,diabetes,5/22/2023,holloway plc,11855.95202,urgent,6/8/2023,17
+62,Female,O-,hypertension,7/8/2020,cain-stone,22368.37594,emergency,7/25/2020,17
+43,Female,A-,asthma,12/27/2022,garner group,48511.65473,urgent,1/24/2023,28
+24,Female,B-,diabetes,6/21/2019,ltd logan,10126.50257,urgent,7/12/2019,21
+46,Female,O+,diabetes,1/1/2021,bishop plc,8470.6413,elective,1/27/2021,26
+58,Male,AB-,asthma,9/7/2022,lewis-mitchell,25086.01392,urgent,9/28/2022,21
+58,Male,B+,obesity,6/9/2022,and campbell sons,36524.37725,urgent,6/26/2022,17
+48,Male,B+,cancer,11/1/2023,james plc,5945.011816,elective,11/10/2023,9
+43,Male,O-,obesity,8/6/2023,colon-meyer,3601.681679,urgent,8/13/2023,7
+74,Female,AB+,obesity,7/30/2022,"and woods liu, berry",4920.190418,elective,8/25/2022,26
+47,Female,AB-,diabetes,2/4/2021,llc clayton,48887.23452,elective,2/28/2021,24
+35,Male,A+,cancer,11/26/2021,le-hawkins,48826.38706,urgent,12/9/2021,13
+28,Male,B-,arthritis,7/2/2020,"martinez taylor lopez, and",5509.595801,emergency,7/3/2020,1
+49,Male,A-,diabetes,8/9/2021,williams group,37636.44166,elective,9/6/2021,28
+28,Male,AB-,obesity,1/18/2024,schmidt-douglas,20885.91951,emergency,2/4/2024,17
+50,Male,O-,obesity,1/17/2023,ltd fleming,35114.48997,elective,2/10/2023,24
+59,Male,A-,obesity,3/27/2024,"smith brown wallace, and",6191.392656,elective,4/21/2024,25
+22,Female,O+,hypertension,1/10/2023,boyer inc,40697.96895,elective,1/23/2023,13
+62,Female,B+,arthritis,7/14/2019,miranda-collins,43465.95278,urgent,7/18/2019,4
+21,Female,A+,cancer,5/18/2020,hoffman and sons,16866.06882,elective,6/2/2020,15
+44,Male,B-,obesity,6/15/2022,group ortega,41454.68526,emergency,6/25/2022,10
+27,Male,B+,hypertension,3/27/2020,"mitchell, vasquez and chaney",47735.38424,urgent,4/5/2020,9
+47,Male,O-,diabetes,2/20/2020,villa-simpson,2826.812981,elective,3/1/2020,10
+51,Male,O-,hypertension,6/16/2020,llc haynes,26524.1728,elective,6/21/2020,5
+48,Female,B-,hypertension,6/6/2019,inc cummings,36727.58101,urgent,7/2/2019,26
+83,Male,B-,arthritis,1/18/2022,downs-stephens,4509.403061,elective,2/5/2022,18
+64,Male,A+,arthritis,1/11/2021,"carson and nielsen, buchanan",25709.58443,elective,1/23/2021,12
+19,Male,O+,obesity,2/4/2021,hicks-perez,20086.2171,urgent,2/15/2021,11
+39,Male,B-,asthma,5/30/2022,"wilson and brown, ortiz",36862.1718,elective,6/1/2022,2
+23,Female,O+,hypertension,12/19/2021,berg-mcconnell,40065.33889,elective,12/30/2021,11
+24,Male,B+,diabetes,7/20/2021,gilbert ltd,41997.35456,elective,8/7/2021,18
+73,Female,AB-,cancer,12/27/2022,gutierrez-webster,22601.56745,elective,1/19/2023,23
+56,Male,O-,obesity,9/5/2022,group thompson,36204.73233,urgent,10/4/2022,29
+36,Male,B+,cancer,7/27/2022,cooley-reid,41311.2939,emergency,8/19/2022,23
+33,Male,A+,cancer,5/3/2024,"and davenport davis hobbs,",36890.26905,elective,5/15/2024,12
+21,Male,O+,arthritis,8/28/2019,thompson-becker,5716.104208,emergency,9/16/2019,19
+80,Male,B-,diabetes,4/21/2024,mitchell inc,10461.98069,emergency,5/7/2024,16
+79,Female,O+,arthritis,3/12/2024,"mack, wilson and fowler",37879.97903,urgent,4/4/2024,23
+44,Male,A+,obesity,9/29/2019,"johnson garcia, and anthony",44355.20415,elective,10/5/2019,6
+23,Male,AB+,obesity,8/19/2022,"and young powell mitchell,",28355.45246,urgent,8/24/2022,5
+75,Male,A-,cancer,10/18/2021,bishop inc,22935.41171,elective,11/1/2021,14
+60,Male,A-,hypertension,4/7/2023,coleman-dawson,42605.63534,elective,5/5/2023,28
+83,Male,AB-,asthma,10/28/2019,cunningham-king,24023.95612,elective,11/24/2019,27
+61,Female,AB+,hypertension,6/29/2020,anderson plc,20577.70893,elective,7/26/2020,27
+82,Female,AB+,diabetes,9/21/2022,"freeman king hodges, and",7264.885037,emergency,10/3/2022,12
+40,Male,A-,arthritis,8/10/2023,sons wilson and,29913.84933,urgent,8/15/2023,5
+70,Female,B+,hypertension,5/16/2022,woodward ltd,43353.40395,elective,5/26/2022,10
+68,Female,O+,cancer,8/25/2020,"powell branch osborn, and",18382.66405,elective,9/15/2020,21
+31,Female,B-,cancer,10/4/2023,"brown brown, and sanders",49419.86801,elective,10/11/2023,7
+28,Male,O+,asthma,4/28/2022,harris-oconnor,9958.023901,emergency,5/27/2022,29
+84,Male,O+,hypertension,5/29/2019,"paul richardson haynes, and",21438.27899,elective,6/17/2019,19
+34,Female,AB+,arthritis,3/9/2024,patterson-lee,1820.015821,emergency,3/23/2024,14
+25,Female,B+,hypertension,1/7/2020,"and yang fox scott,",32760.46876,urgent,2/1/2020,25
+58,Female,B+,asthma,11/10/2019,"burch, and sexton sandoval",35421.82583,elective,12/6/2019,26
+78,Female,O+,diabetes,1/24/2023,"johnson and delgado, bennett",44393.18053,elective,2/1/2023,8
+56,Male,AB+,diabetes,7/28/2019,garza group,16578.90584,urgent,8/26/2019,29
+77,Male,AB-,arthritis,7/18/2022,"olson, andrade and dixon",33749.85877,emergency,8/7/2022,20
+61,Female,A+,asthma,6/7/2020,fisher inc,3903.756243,urgent,7/1/2020,24
+40,Female,B-,cancer,12/7/2020,farrell-lyons,22720.3337,emergency,12/20/2020,13
+80,Male,AB-,diabetes,4/10/2020,"greer cain and taylor,",35411.47137,elective,4/30/2020,20
+35,Male,A-,hypertension,7/12/2023,turner ltd,27342.22674,urgent,7/22/2023,10
+85,Female,A+,cancer,9/10/2022,johnson group,27971.28036,emergency,9/14/2022,4
+64,Male,AB-,hypertension,4/15/2021,sherman inc,26894.07493,emergency,5/7/2021,22
+30,Female,O-,cancer,8/20/2020,"and garcia wade richardson,",36551.05475,emergency,8/23/2020,3
+19,Female,A+,arthritis,8/14/2020,white-graham,10693.38926,elective,8/28/2020,14
+64,Male,A+,diabetes,7/17/2021,and miller sons,28835.44119,urgent,8/3/2021,17
+44,Male,B+,diabetes,1/27/2023,"taylor, and mullins lara",7083.614266,elective,2/2/2023,6
+66,Female,O-,asthma,9/4/2020,"and king, vega jones",2068.429204,urgent,9/20/2020,16
+79,Female,AB+,hypertension,2/8/2020,alvarez-cruz,42956.12895,elective,2/21/2020,13
+59,Female,O+,diabetes,7/1/2019,"walker cisneros and adams,",17307.36622,urgent,7/5/2019,4
+47,Male,O+,asthma,1/1/2024,ltd lewis,41492.12759,elective,1/12/2024,11
+49,Male,AB+,obesity,3/10/2021,esparza-martinez,16097.76216,emergency,4/7/2021,28
+35,Male,AB+,cancer,9/19/2019,"baker hernandez and scott,",44495.73104,elective,10/16/2019,27
+69,Female,B+,obesity,2/24/2023,group lopez,2936.894499,emergency,2/25/2023,1
+57,Male,O+,obesity,3/30/2022,"and le martin young,",43374.01146,emergency,4/14/2022,15
+51,Female,A+,asthma,8/30/2019,plc cook,6949.875645,urgent,9/17/2019,18
+31,Female,O+,arthritis,12/21/2019,"baker, davis hill and",15449.06397,elective,12/31/2019,10
+34,Female,A-,obesity,8/31/2019,johnson-gray,37458.15928,elective,9/28/2019,28
+57,Male,O+,cancer,3/30/2022,"mitchell, and garcia saunders",5919.300084,elective,4/11/2022,12
+51,Female,O+,arthritis,8/11/2023,dennis-roth,21534.71557,emergency,8/20/2023,9
+85,Male,B+,asthma,10/29/2021,"mcgee patton aguirre, and",43393.92292,elective,11/25/2021,27
+51,Male,A-,cancer,9/18/2020,foster-thomas,50332.93241,emergency,10/12/2020,24
+39,Male,AB+,cancer,2/24/2021,group mann,18062.59684,urgent,3/17/2021,21
+75,Male,AB-,hypertension,7/7/2023,martinez-strickland,30064.18079,urgent,7/13/2023,6
+46,Female,O+,hypertension,6/26/2023,"shaw tapia and barnes,",45440.79281,elective,7/23/2023,27
+47,Male,O-,obesity,11/12/2021,morris-campbell,12073.06727,urgent,12/4/2021,22
+38,Female,O+,arthritis,10/23/2021,"anderson morton and vang,",48065.46239,urgent,11/8/2021,16
+25,Female,O+,arthritis,11/30/2019,olson llc,16342.36373,emergency,12/20/2019,20
+65,Male,AB+,hypertension,3/19/2023,juarez and sons,21767.23167,elective,4/16/2023,28
+50,Female,O-,hypertension,2/2/2022,"ramos hansen clark, and",16055.9304,emergency,2/5/2022,3
+40,Male,AB+,obesity,9/25/2023,plc aguirre,30123.53857,urgent,10/5/2023,10
+70,Male,B+,arthritis,10/28/2021,"nelson baldwin, boyd and",38572.16948,emergency,10/31/2021,3
+56,Female,AB-,hypertension,6/16/2020,"martinez, and moore white",37798.95059,urgent,7/14/2020,28
+25,Male,O+,diabetes,10/7/2021,"barker, costa hahn and",38716.35593,emergency,11/6/2021,30
+20,Male,A-,diabetes,4/29/2021,"anderson and higgins galvan,",13666.28337,elective,5/17/2021,18
+73,Female,AB-,diabetes,5/12/2019,flores-roman,30753.68882,elective,6/7/2019,26
+82,Male,B-,obesity,9/12/2021,"miller, moon boyd and",44278.23166,elective,9/17/2021,5
+31,Male,B+,diabetes,1/25/2021,inc harmon,6267.540562,urgent,1/27/2021,2
+74,Male,O-,cancer,5/22/2020,"elliott jones hinton, and",26276.79266,elective,6/17/2020,26
+38,Female,B-,asthma,6/20/2022,sons mckinney and,33171.03009,elective,7/14/2022,24
+63,Female,AB-,cancer,11/16/2020,carroll-howard,44984.24156,elective,12/6/2020,20
+62,Female,B-,obesity,10/9/2020,"and park, garcia lam",27091.86037,urgent,10/14/2020,5
+80,Male,O+,obesity,12/12/2023,"chavez valenzuela, and gutierrez",32387.92515,urgent,12/27/2023,15
+25,Female,AB-,cancer,6/14/2022,hill-hernandez,32905.47679,emergency,7/3/2022,19
+51,Male,A-,diabetes,2/23/2023,skinner llc,1332.338433,emergency,3/18/2023,23
+46,Female,AB+,obesity,4/25/2024,inc cox,17702.56939,urgent,5/12/2024,17
+18,Female,A+,asthma,6/8/2022,perez sons and,33443.55249,emergency,6/22/2022,14
+30,Female,B-,cancer,12/7/2023,"parker turner, houston and",23175.49703,emergency,12/24/2023,17
+43,Male,AB-,cancer,11/3/2020,wilson-chen,14224.31229,emergency,12/1/2020,28
+21,Male,AB+,hypertension,10/3/2023,boone-duffy,23483.49684,urgent,10/18/2023,15
+28,Female,B-,hypertension,6/11/2022,reid-simmons,31326.72672,emergency,6/28/2022,17
+26,Female,O-,hypertension,7/3/2021,dunn-bentley,48651.73666,urgent,7/29/2021,26
+24,Male,A-,asthma,3/19/2024,inc cherry,18932.31467,elective,4/2/2024,14
+55,Female,AB-,diabetes,1/11/2024,zavala-fernandez,22063.22903,elective,1/30/2024,19
+41,Female,A+,cancer,6/26/2021,jones-fleming,20714.70673,urgent,7/21/2021,25
+85,Male,O+,asthma,1/19/2024,christian-hall,34510.8849,elective,2/5/2024,17
+45,Male,O-,hypertension,12/15/2020,llc cabrera,42200.51465,elective,1/13/2021,29
+22,Female,B+,hypertension,5/14/2021,"hernandez and delacruz, kramer",24451.28948,emergency,5/28/2021,14
+18,Male,B+,diabetes,7/10/2021,cervantes-herrera,30289.70491,emergency,7/12/2021,2
+60,Male,B-,diabetes,7/25/2020,garrison-mcfarland,35317.49304,urgent,7/29/2020,4
+22,Female,AB+,obesity,9/17/2019,warren-brown,8033.611655,elective,10/1/2019,14
+65,Female,A+,obesity,5/14/2019,ruiz group,7391.534745,elective,5/20/2019,6
+73,Female,B+,asthma,5/31/2020,anderson-brown,35945.88447,emergency,6/28/2020,28
+82,Female,AB+,hypertension,3/27/2020,hull sons and,10780.74201,emergency,4/4/2020,8
+32,Female,O-,arthritis,12/23/2019,"oliver mcdonald, and johnson",28743.00384,elective,12/30/2019,7
+76,Male,A-,obesity,2/8/2024,lara-allen,47270.24574,elective,2/16/2024,8
+61,Female,A-,asthma,9/23/2023,group summers,37846.35221,emergency,9/24/2023,1
+63,Male,AB+,cancer,5/14/2020,"phillips medina, rivera and",46502.76579,elective,5/20/2020,6
+54,Female,B+,hypertension,2/11/2020,llc flores,27660.28505,urgent,3/1/2020,19
+77,Male,AB+,hypertension,9/13/2021,inc pace,36686.65593,urgent,10/9/2021,26
+64,Male,B+,diabetes,10/24/2020,garcia-robinson,19563.20303,urgent,10/25/2020,1
+69,Male,B+,arthritis,12/29/2020,snow-day,23523.59682,elective,1/21/2021,23
+31,Male,O+,cancer,3/19/2024,inc rangel,50563.79858,urgent,4/7/2024,19
+40,Male,O-,arthritis,12/13/2021,irwin-kaufman,15518.45778,emergency,12/19/2021,6
+50,Male,O-,asthma,5/17/2022,"brown and colon, anderson",42150.70379,urgent,6/3/2022,17
+83,Female,A-,arthritis,12/1/2022,"and peterson, rodriguez murphy",42192.98687,emergency,12/17/2022,16
+23,Female,O-,cancer,3/16/2020,"and frederick, jones garcia",3925.933841,emergency,3/22/2020,6
+68,Female,AB+,arthritis,10/20/2020,"and fuentes rogers gill,",12605.74744,emergency,10/27/2020,7
+37,Male,AB-,asthma,1/5/2024,group schneider,7421.176732,urgent,1/27/2024,22
+24,Female,B-,arthritis,8/17/2023,sandoval-bennett,24561.73719,emergency,9/1/2023,15
+21,Male,B-,diabetes,3/31/2023,young ltd,32854.15326,emergency,4/22/2023,22
+46,Female,AB-,diabetes,11/21/2022,lopez-brooks,18828.76413,elective,11/22/2022,1
+61,Female,B+,arthritis,8/24/2020,"leblanc conway, holt and",34381.68871,urgent,9/6/2020,13
+25,Male,O-,arthritis,2/12/2022,ltd roberts,31501.71986,elective,3/3/2022,19
+75,Female,A-,arthritis,8/15/2023,and carter sons,12098.03322,elective,9/4/2023,20
+43,Female,O-,diabetes,1/13/2023,"moore and rhodes lang,",39547.38119,elective,2/1/2023,19
+38,Female,B-,obesity,4/28/2020,poole llc,6486.235726,elective,5/20/2020,22
+28,Male,AB+,arthritis,10/21/2022,hansen-torres,46657.68608,urgent,10/22/2022,1
+80,Male,O+,hypertension,12/15/2022,park-douglas,31709.46503,urgent,12/25/2022,10
+63,Female,O+,asthma,9/1/2020,"ruiz, scott mitchell and",9894.809407,emergency,10/1/2020,30
+75,Female,AB-,cancer,11/18/2019,"and rodriguez gallegos henry,",29995.42856,emergency,12/11/2019,23
+59,Female,O+,arthritis,8/22/2022,ltd miller,7796.259614,urgent,8/30/2022,8
+27,Male,A+,diabetes,8/1/2020,"turner bradford and allison,",48965.1758,emergency,8/26/2020,25
+77,Male,A+,arthritis,1/18/2024,goodwin ltd,16128.25262,emergency,2/15/2024,28
+19,Female,B-,asthma,3/17/2020,carrillo-price,16920.16153,emergency,4/10/2020,24
+58,Male,AB+,arthritis,8/15/2022,and sons lee,49861.87424,emergency,9/1/2022,17
+57,Male,AB+,cancer,5/15/2023,rogers-robles,36287.38506,elective,5/19/2023,4
+59,Male,A+,hypertension,6/27/2019,massey inc,48035.36933,urgent,7/19/2019,22
+62,Male,B+,hypertension,10/29/2023,arias-galvan,22030.69335,urgent,11/14/2023,16
+71,Male,AB-,diabetes,1/9/2024,scott-moore,45665.85089,elective,1/20/2024,11
+35,Female,B+,cancer,8/23/2020,jarvis-roberts,4415.754867,emergency,8/29/2020,6
+34,Male,AB+,asthma,1/7/2020,clay llc,41122.28914,urgent,1/12/2020,5
+84,Female,O-,arthritis,10/25/2019,"quinn, bentley and allen",28401.55693,elective,11/15/2019,21
+77,Female,AB+,diabetes,9/20/2023,williams plc,28228.69472,urgent,10/8/2023,18
+85,Male,B+,arthritis,1/12/2020,"griffith mccullough mendoza, and",2106.393757,urgent,1/23/2020,11
+34,Female,B+,asthma,6/4/2019,meyers-moore,47398.58621,urgent,6/7/2019,3
+72,Female,AB-,asthma,12/14/2021,blair-bell,47454.59468,emergency,12/24/2021,10
+33,Female,A-,diabetes,5/30/2023,lester-fletcher,22257.60937,urgent,6/1/2023,2
+80,Female,AB-,arthritis,8/26/2019,rodriguez llc,30324.06598,urgent,9/15/2019,20
+24,Female,O-,arthritis,11/16/2019,llc baldwin,10053.92458,emergency,12/2/2019,16
+44,Female,A-,arthritis,4/23/2022,riley plc,9823.303433,elective,5/19/2022,26
+32,Female,B+,asthma,2/20/2020,snyder-perry,17862.69225,elective,2/21/2020,1
+83,Male,B+,obesity,10/19/2022,perez-carlson,17855.80107,emergency,11/10/2022,22
+80,Male,O-,arthritis,2/5/2022,"richardson mccormick, cruz and",40178.46329,elective,2/18/2022,13
+41,Female,B+,cancer,8/1/2019,underwood-mcguire,24690.22218,emergency,8/9/2019,8
+39,Male,O-,arthritis,6/19/2021,"galvan, lopez salazar and",21862.05636,elective,7/16/2021,27
+55,Male,O-,asthma,6/28/2020,fisher-perez,29790.84684,urgent,7/24/2020,26
+59,Male,A-,asthma,10/6/2019,"maldonado anderson and adkins,",6539.760332,urgent,10/24/2019,18
+34,Female,A-,asthma,7/17/2022,ruiz plc,20453.3175,urgent,7/23/2022,6
+27,Female,O+,hypertension,5/22/2021,ltd watts,6827.697955,urgent,6/9/2021,18
+56,Female,O+,diabetes,8/16/2022,and martinez sons,7557.59915,urgent,9/4/2022,19
+60,Female,A+,cancer,3/31/2021,harrington-marshall,15364.48479,emergency,4/18/2021,18
+71,Female,O-,obesity,9/6/2021,robbins inc,6664.216917,elective,9/17/2021,11
+20,Male,AB-,diabetes,8/26/2023,"and conway george, huff",7235.19069,urgent,8/27/2023,1
+75,Male,A+,asthma,11/27/2019,group thompson,20336.49292,emergency,12/7/2019,10
+32,Female,A+,obesity,3/7/2023,rodriguez-arnold,38668.69459,urgent,3/12/2023,5
+66,Female,A-,diabetes,10/3/2022,"and sullivan, mcclure shields",41222.00587,elective,10/14/2022,11
+78,Female,O-,diabetes,1/10/2023,charles llc,38520.01119,urgent,1/30/2023,20
+49,Male,O-,cancer,4/12/2020,morgan-young,44411.12453,urgent,5/4/2020,22
+73,Male,B-,arthritis,11/20/2020,"garcia and nguyen, leonard",26044.25094,urgent,12/15/2020,25
+69,Male,AB-,hypertension,4/26/2024,plc fox,7902.420483,emergency,5/24/2024,28
+51,Female,A+,hypertension,6/29/2023,"bell preston washington, and",46245.58395,urgent,7/7/2023,8
+66,Male,O+,diabetes,1/11/2020,llc hernandez,40448.96917,emergency,2/7/2020,27
+38,Female,O-,arthritis,6/5/2022,steele plc,20914.94741,elective,6/15/2022,10
+33,Male,O+,asthma,1/28/2024,"and sims, gonzalez huff",46682.44679,elective,2/22/2024,25
+27,Male,B-,cancer,11/6/2021,allen-perez,10965.69575,elective,11/7/2021,1
+36,Male,B-,cancer,7/21/2021,"and alexander crawford graham,",27507.04298,emergency,7/31/2021,10
+41,Male,A-,cancer,11/23/2019,moyer-lamb,12678.09623,urgent,12/6/2019,13
+33,Male,AB-,asthma,5/30/2019,taylor-wilson,38395.52996,emergency,6/29/2019,30
+56,Female,AB-,asthma,3/23/2024,plc sutton,28510.80722,emergency,4/14/2024,22
+25,Male,O+,obesity,6/23/2019,and sons sanders,43400.66659,emergency,7/12/2019,19
+21,Female,O-,asthma,1/30/2022,gentry and sons,46890.42601,elective,2/26/2022,27
+57,Male,B-,cancer,11/12/2022,haynes-silva,48491.64321,elective,11/22/2022,10
+39,Female,O+,cancer,12/22/2020,"marshall, and koch harper",13643.73085,elective,12/27/2020,5
+51,Female,A-,diabetes,5/22/2022,duffy-jackson,5415.28351,emergency,6/8/2022,17
+31,Male,B+,hypertension,3/27/2021,brown-diaz,44008.05021,elective,4/23/2021,27
+85,Male,AB-,asthma,6/22/2022,mcdaniel-castaneda,43866.65848,urgent,7/22/2022,30
+76,Male,O+,diabetes,7/15/2022,lyons llc,45242.85699,emergency,7/19/2022,4
+59,Male,A+,asthma,6/6/2022,plc french,13550.12449,elective,6/30/2022,24
+64,Male,O-,diabetes,12/29/2020,llc coleman,34963.63898,urgent,1/7/2021,9
+28,Male,A+,arthritis,5/23/2020,tucker-warren,48890.44782,elective,6/12/2020,20
+63,Male,A-,obesity,7/25/2022,wang-hill,17159.58153,emergency,8/22/2022,28
+24,Male,A-,arthritis,4/1/2021,jones ltd,7192.628178,emergency,4/19/2021,18
+81,Male,B+,arthritis,7/20/2020,"white west herman, and",44982.85247,elective,7/29/2020,9
+74,Male,A+,diabetes,2/28/2020,inc newton,16004.46908,emergency,3/28/2020,29
+28,Male,AB+,cancer,8/30/2023,huerta-sanchez,7320.042617,elective,9/17/2023,18
+27,Male,AB-,obesity,7/27/2020,snyder-parrish,28329.82407,emergency,8/24/2020,28
+24,Male,AB-,diabetes,3/28/2021,inc bryant,24130.51675,urgent,4/5/2021,8
+63,Male,A-,diabetes,5/8/2022,williams inc,22361.1476,emergency,5/10/2022,2
+46,Female,O+,obesity,6/16/2021,"smith white, and ryan",19650.00179,emergency,7/6/2021,20
+35,Female,AB+,arthritis,10/31/2023,"williams dillon white, and",30986.93252,urgent,11/21/2023,21
+28,Female,B+,diabetes,4/23/2022,vargas-cohen,45987.15678,elective,5/11/2022,18
+80,Female,B+,obesity,12/9/2021,gardner group,11086.73048,urgent,12/12/2021,3
+31,Male,O-,obesity,1/10/2024,garcia-blake,28483.87694,urgent,2/2/2024,23
+69,Female,O+,diabetes,11/17/2019,castaneda-tran,37905.95518,emergency,12/15/2019,28
+82,Male,AB+,asthma,1/5/2022,kim-ibarra,27878.85084,elective,1/11/2022,6
+64,Female,B+,arthritis,1/15/2024,boyer-burgess,13900.05426,urgent,2/10/2024,26
+77,Female,O+,arthritis,11/17/2022,cross ltd,30575.7646,urgent,12/15/2022,28
+32,Male,O+,obesity,8/2/2021,"patel payne, and young",11941.6313,urgent,8/26/2021,24
+70,Female,A+,diabetes,4/20/2020,group santana,7422.72526,elective,4/23/2020,3
+50,Female,O-,hypertension,6/28/2023,sons and cook,34005.547,urgent,6/30/2023,2
+29,Male,O+,asthma,4/6/2022,martin-rice,48574.83244,elective,4/30/2022,24
+66,Female,AB+,cancer,3/31/2021,"ortiz, and rios price",45010.79764,urgent,4/16/2021,16
+70,Male,AB+,obesity,3/7/2020,barnes-williams,7409.336546,elective,3/29/2020,22
+56,Female,B-,cancer,6/3/2020,hardy-gutierrez,34968.07645,urgent,6/21/2020,18
+85,Male,B-,asthma,8/31/2021,cole llc,5648.175526,elective,9/17/2021,17
+67,Male,AB+,cancer,9/22/2022,white-rowe,14227.32116,elective,10/11/2022,19
+50,Female,B+,arthritis,7/2/2022,"rodriguez harris, willis and",47551.57014,elective,7/15/2022,13
+52,Female,O+,asthma,6/18/2019,"santana garcia, alexander and",42301.91462,elective,7/8/2019,20
+84,Male,B-,hypertension,7/19/2019,collins-lozano,2275.636632,urgent,8/8/2019,20
+70,Male,A-,cancer,1/6/2022,brown-clark,10003.67103,elective,1/27/2022,21
+66,Male,AB-,diabetes,2/8/2022,"mcmahon and kim, holmes",42653.76534,urgent,2/28/2022,20
+74,Male,AB-,hypertension,12/9/2022,gomez-smith,10722.49507,elective,12/28/2022,19
+75,Female,O+,obesity,6/14/2020,"hall lee bailey, and",47516.52055,urgent,6/20/2020,6
+61,Male,B+,obesity,3/12/2021,"brennan bentley, and hunter",41379.38261,urgent,3/25/2021,13
+82,Male,AB+,asthma,12/27/2022,"mullins, gray and reed",27481.33148,elective,1/12/2023,16
+51,Female,A-,obesity,12/8/2019,anderson group,32006.03157,urgent,1/5/2020,28
+37,Female,A-,arthritis,6/19/2023,"walsh, howell and jennings",14405.93924,elective,7/14/2023,25
+51,Male,B+,hypertension,5/10/2019,haney-marshall,24691.24905,urgent,6/7/2019,28
+23,Male,A-,asthma,6/11/2021,"rich and roach, king",47491.39239,elective,6/27/2021,16
+70,Male,B-,asthma,10/27/2019,"johnson, and petty rubio",37861.50911,emergency,11/12/2019,16
+60,Female,B+,cancer,8/27/2022,"morse, hudson williams and",22952.72982,elective,9/15/2022,19
+45,Female,A+,arthritis,8/8/2019,"kane, and dickson schwartz",2735.031575,emergency,8/14/2019,6
+30,Male,A-,arthritis,2/12/2023,inc mccullough,37755.48078,elective,2/17/2023,5
+35,Male,A+,hypertension,5/4/2021,taylor-wong,2691.049064,elective,5/10/2021,6
+51,Female,O+,obesity,7/11/2021,avery-roy,7897.287485,elective,7/28/2021,17
+61,Male,A+,diabetes,2/10/2021,llc anderson,4446.342917,emergency,2/18/2021,8
+52,Female,AB+,diabetes,10/16/2021,castaneda-young,20852.14637,elective,11/4/2021,19
+64,Female,B+,diabetes,10/3/2019,"and thomas strong, cook",47701.47743,urgent,10/25/2019,22
+25,Male,A+,obesity,4/26/2020,wells-price,49934.13796,elective,5/2/2020,6
+76,Female,B-,obesity,9/13/2019,rios ltd,17263.94898,emergency,9/19/2019,6
+52,Female,B-,diabetes,1/20/2022,vincent-hill,45274.39656,emergency,2/6/2022,17
+77,Male,B+,obesity,10/14/2023,brooks llc,10057.91558,elective,11/4/2023,21
+83,Male,A+,diabetes,11/23/2019,group carpenter,36369.09117,urgent,11/26/2019,3
+57,Female,B-,cancer,12/5/2023,"henderson carpenter and barrett,",3548.051648,elective,12/31/2023,26
+54,Male,B+,arthritis,2/1/2021,mcdaniel-walsh,10011.29075,emergency,2/7/2021,6
+62,Male,A-,cancer,6/30/2022,ross-jones,14876.33422,urgent,7/1/2022,1
+37,Male,B-,arthritis,11/9/2023,"mathews, smith and moss",30294.65138,elective,11/29/2023,20
+56,Female,B+,hypertension,7/30/2020,"and lawrence, williams thomas",45888.70486,elective,8/10/2020,11
+68,Female,O+,arthritis,4/10/2022,wilkerson group,31958.39662,elective,4/19/2022,9
+46,Male,A-,obesity,1/2/2020,villanueva-garcia,22645.7861,urgent,1/16/2020,14
+62,Male,B-,hypertension,11/10/2023,duffy-bowman,21297.40651,emergency,12/1/2023,21
+49,Female,AB-,diabetes,2/14/2021,tyler-velasquez,26432.16099,urgent,2/18/2021,4
+75,Male,B-,hypertension,7/16/2022,james inc,6336.708014,emergency,8/13/2022,28
+40,Female,O+,diabetes,5/15/2023,montgomery-jones,31063.55679,elective,5/27/2023,12
+51,Female,AB+,arthritis,4/30/2020,montgomery-anthony,10710.32572,urgent,5/22/2020,22
+64,Male,AB+,asthma,1/12/2021,davis-padilla,25066.52145,urgent,1/25/2021,13
+49,Female,O-,arthritis,5/23/2019,ellison-hayden,13396.90017,emergency,6/2/2019,10
+74,Male,A+,obesity,4/23/2023,long-lee,29822.09786,emergency,5/9/2023,16
+66,Female,A-,hypertension,12/7/2022,graves llc,12025.3473,urgent,1/1/2023,25
+52,Female,A-,arthritis,10/25/2020,and sons dixon,33708.85754,elective,11/4/2020,10
+58,Female,B-,obesity,4/8/2021,"clark, garza tate and",40825.08467,elective,5/1/2021,23
+21,Male,B-,arthritis,9/9/2020,bates inc,27345.4552,emergency,10/4/2020,25
+69,Male,AB+,arthritis,12/6/2019,llc sanford,38751.79652,emergency,12/8/2019,2
+47,Female,AB-,asthma,2/16/2023,and harper sons,6252.083557,elective,3/6/2023,18
+51,Female,O-,hypertension,9/12/2023,"young mcclain, newman and",18714.337,emergency,10/12/2023,30
+20,Female,A+,cancer,11/21/2019,"ray, cain and miller",14291.69892,elective,12/11/2019,20
+38,Female,B-,hypertension,7/14/2019,zamora-rivers,38210.96495,elective,7/19/2019,5
+70,Female,AB+,obesity,10/3/2019,"and perez smith, kim",7074.792709,emergency,11/2/2019,30
+73,Male,O-,arthritis,7/4/2019,johnson-wilson,35419.51297,elective,7/6/2019,2
+44,Male,AB+,hypertension,5/26/2019,delacruz-chavez,3852.947112,emergency,6/8/2019,13
+44,Female,A+,obesity,12/12/2021,"and gonzalez, warren moore",48747.54519,elective,12/18/2021,6
+54,Male,AB-,hypertension,5/22/2021,ramirez-humphrey,40577.6012,urgent,6/1/2021,10
+45,Male,AB-,diabetes,9/3/2020,and sons ford,16648.5474,emergency,9/15/2020,12
+18,Female,B-,arthritis,3/30/2022,"and wells, thomas kline",38588.97256,urgent,4/13/2022,14
+44,Male,B+,hypertension,12/20/2019,wood-herring,32990.19439,elective,1/18/2020,29
+28,Female,A+,obesity,1/21/2022,wilkerson llc,20115.75587,urgent,2/20/2022,30
+42,Male,A+,obesity,5/19/2020,brown-henry,5947.68965,emergency,6/12/2020,24
+61,Female,A+,diabetes,2/20/2024,sheppard-livingston,28281.34838,emergency,3/8/2024,17
+75,Female,AB-,cancer,8/31/2023,golden plc,30873.61991,elective,9/7/2023,7
+85,Male,A+,hypertension,1/19/2023,"and perez, bennett townsend",9542.739709,emergency,1/28/2023,9
+74,Male,O-,obesity,11/20/2023,"johnson, and benson harris",32429.61913,emergency,12/17/2023,27
+59,Male,AB+,obesity,7/28/2021,"and clay, morton cunningham",5588.993885,urgent,8/3/2021,6
+49,Male,A-,asthma,4/4/2023,anderson-estrada,31497.55488,emergency,4/27/2023,23
+85,Female,B-,obesity,8/11/2020,and sons carlson,14283.01595,elective,8/24/2020,13
+51,Female,B+,hypertension,1/28/2020,gonzalez inc,15422.04289,urgent,2/21/2020,24
+23,Male,AB+,asthma,1/7/2020,schaefer-hoffman,40309.27742,emergency,2/5/2020,29
+26,Male,O-,asthma,4/20/2020,wilson group,45916.32483,elective,5/17/2020,27
+59,Female,AB+,obesity,3/18/2020,"and vargas reynolds evans,",41632.52485,elective,3/25/2020,7
+25,Female,AB-,diabetes,6/18/2020,"cantu and tanner rojas,",7437.418708,emergency,6/23/2020,5
+29,Male,O-,cancer,7/15/2023,"thornton, adams mccarty and",38860.02088,elective,7/27/2023,12
+25,Male,A-,hypertension,10/2/2023,cantrell-griffith,6662.242854,urgent,10/24/2023,22
+61,Male,B-,diabetes,1/13/2021,martin group,13074.21528,urgent,2/5/2021,23
+46,Male,A+,hypertension,5/16/2022,and sons nelson,10443.2069,elective,5/31/2022,15
+54,Male,AB-,hypertension,10/22/2019,ramirez-hill,20227.0394,emergency,11/1/2019,10
+41,Male,A+,obesity,8/9/2019,jackson-butler,38779.20787,emergency,9/3/2019,25
+21,Female,O-,asthma,12/30/2023,miller-avila,4561.664207,elective,1/27/2024,28
+38,Female,AB+,diabetes,7/11/2022,reyes-crawford,1656.548217,elective,8/3/2022,23
+75,Male,AB+,obesity,9/19/2020,marshall-smith,28463.86099,emergency,10/6/2020,17
+44,Male,B+,cancer,9/6/2019,"and peterson matthews robinson,",5268.690457,urgent,9/7/2019,1
+23,Male,O-,obesity,11/22/2019,nelson plc,24011.70225,emergency,12/22/2019,30
+45,Female,B-,cancer,7/22/2020,perez-mitchell,18467.07945,elective,7/24/2020,2
+58,Male,B+,cancer,3/1/2022,"gross, thompson smith and",3782.741416,urgent,3/19/2022,18
+34,Male,B-,diabetes,3/1/2023,"burch, moore and thompson",11921.65951,urgent,3/21/2023,20
+54,Female,B+,obesity,4/22/2021,hamilton group,16725.97959,urgent,5/11/2021,19
+29,Female,A+,obesity,9/23/2020,shaw llc,39700.82412,urgent,9/25/2020,2
+54,Female,A+,cancer,1/8/2023,"and day, lewis coleman",2568.011967,emergency,1/19/2023,11
+46,Male,AB-,asthma,8/17/2022,stone-perez,15242.38718,elective,9/8/2022,22
+35,Female,AB+,hypertension,6/15/2021,ltd foley,31054.04606,urgent,6/25/2021,10
+58,Female,AB+,obesity,3/1/2024,ward-mayer,49118.59126,urgent,3/20/2024,19
+36,Female,AB+,hypertension,12/11/2023,and martinez sons,3235.581156,elective,1/8/2024,28
+80,Female,B+,arthritis,5/4/2022,group anderson,26052.02416,elective,5/5/2022,1
+43,Male,A-,arthritis,12/1/2021,"garcia, and marshall maxwell",11095.40185,emergency,12/29/2021,28
+47,Female,B+,hypertension,9/21/2021,inc martinez,10725.82546,elective,10/10/2021,19
+49,Female,B-,hypertension,3/20/2020,"mcmahon ortiz, owens and",30038.27598,elective,4/9/2020,20
+58,Male,AB-,asthma,3/29/2024,williams-saunders,49446.45818,emergency,4/16/2024,18
+40,Female,AB-,obesity,3/12/2024,spencer ltd,5315.705616,emergency,3/25/2024,13
+44,Male,A-,cancer,3/21/2022,mathis-schwartz,13928.28013,emergency,4/6/2022,16
+38,Male,A+,diabetes,7/23/2020,romero-ramsey,2744.40891,emergency,8/9/2020,17
+82,Male,A+,obesity,3/10/2024,avery and sons,27512.91317,emergency,4/7/2024,28
+71,Male,A-,arthritis,3/15/2020,ltd richardson,35854.08642,urgent,3/29/2020,14
+42,Male,A+,diabetes,5/10/2021,and sons williams,2784.020531,urgent,5/16/2021,6
+38,Female,O+,diabetes,12/29/2020,carter-reyes,2547.912531,elective,1/7/2021,9
+84,Male,B-,arthritis,3/23/2020,llc gray,29992.53616,urgent,3/29/2020,6
+64,Female,O-,hypertension,7/13/2023,"gonzalez anderson jacobson, and",4018.016876,emergency,7/25/2023,12
+57,Female,AB-,asthma,7/20/2023,"miller massey lopez, and",20508.58896,urgent,8/2/2023,13
+54,Male,B+,diabetes,2/14/2020,"taylor walsh hawkins, and",25648.04376,urgent,3/1/2020,16
+44,Male,B-,arthritis,5/28/2023,llc brown,19691.42069,elective,6/22/2023,25
+78,Female,B-,cancer,6/12/2022,nelson-wong,10311.93617,urgent,6/27/2022,15
+63,Female,A+,cancer,12/12/2023,llc berry,17733.95499,elective,12/13/2023,1
+66,Female,B-,hypertension,11/6/2023,anderson-jenkins,10521.47193,emergency,11/12/2023,6
+75,Male,AB-,arthritis,5/16/2023,wells and sons,29910.9055,elective,5/30/2023,14
+36,Male,O-,diabetes,10/12/2022,"allen, williams and phillips",26612.00845,elective,10/14/2022,2
+18,Female,AB+,diabetes,12/30/2023,gonzalez-cummings,25858.43752,elective,1/14/2024,15
+49,Male,B+,hypertension,2/26/2024,"and richardson webster smith,",22069.59657,elective,3/9/2024,12
+22,Female,B+,asthma,11/7/2021,hudson-flores,43117.65848,emergency,11/26/2021,19
+72,Female,B+,hypertension,2/3/2020,inc rios,3718.54817,urgent,2/4/2020,1
+46,Female,B+,arthritis,7/5/2019,plc thompson,18788.14423,emergency,7/20/2019,15
+50,Male,O-,asthma,11/13/2021,"rosario wells, roberts and",39089.86606,urgent,11/23/2021,10
+61,Male,B+,diabetes,8/15/2019,ramirez-taylor,47594.47484,elective,9/9/2019,25
+40,Male,O+,asthma,7/19/2023,murphy-mason,19261.51085,emergency,8/14/2023,26
+34,Male,A-,diabetes,4/6/2023,"edwards johnson, and burgess",6578.029058,emergency,5/6/2023,30
+71,Female,AB+,arthritis,10/8/2019,llc spears,38435.44776,elective,10/28/2019,20
+61,Male,A+,obesity,8/10/2020,perez-smith,29810.04692,emergency,9/6/2020,27
+24,Male,A+,asthma,9/26/2019,and sons mcbride,4808.820312,emergency,10/14/2019,18
+28,Male,O+,cancer,2/11/2021,sons and chapman,38365.87278,urgent,2/19/2021,8
+21,Female,O+,arthritis,9/5/2019,cole-davila,45540.09554,elective,9/29/2019,24
+40,Female,B+,asthma,3/1/2021,"pearson, and lynch oconnor",31444.08804,urgent,3/20/2021,19
+57,Male,A-,cancer,4/19/2024,rivera-peck,37194.26398,urgent,5/14/2024,25
+47,Female,AB+,cancer,4/27/2023,hess-white,12422.75542,elective,5/3/2023,6
+59,Male,O+,cancer,7/6/2022,"fox and moreno williams,",8024.410053,elective,7/26/2022,20
+33,Female,O-,arthritis,10/31/2020,johnson-estrada,13034.0755,urgent,11/18/2020,18
+58,Female,B-,cancer,9/8/2023,rivera-mosley,37903.29004,elective,9/22/2023,14
+39,Female,O-,cancer,11/20/2022,"diaz smith johnson, and",45913.16591,emergency,12/19/2022,29
+30,Male,O-,arthritis,7/4/2020,harris-ingram,30468.26338,emergency,8/2/2020,29
+27,Male,B+,asthma,6/24/2023,and esparza sons,50202.20785,urgent,7/13/2023,19
+39,Female,O-,hypertension,10/6/2020,hunt sons and,2104.377396,elective,10/14/2020,8
+76,Female,B+,cancer,3/16/2023,llc hernandez,43206.22411,emergency,4/2/2023,17
+62,Male,O-,arthritis,9/16/2019,perez-smith,10622.28254,urgent,9/21/2019,5
+71,Male,O-,asthma,4/10/2021,"foster lamb, graham and",10659.60881,elective,4/18/2021,8
+67,Male,B-,diabetes,7/21/2019,sanchez llc,10919.11095,elective,8/17/2019,27
+34,Female,A+,cancer,12/14/2021,fox-anthony,8407.488792,urgent,12/21/2021,7
+31,Male,O-,cancer,9/19/2023,"fuentes knight, sandoval and",32926.23354,emergency,10/16/2023,27
+25,Male,A-,cancer,1/27/2024,hudson-williams,48004.97468,emergency,2/26/2024,30
+33,Female,O-,arthritis,4/3/2020,"lowery, dunn anderson and",28452.78349,elective,5/3/2020,30
+61,Female,AB+,hypertension,4/16/2020,mullen-hernandez,20651.61484,urgent,4/22/2020,6
+42,Female,O+,hypertension,8/23/2019,"herman, liu and hill",31822.73085,emergency,9/5/2019,13
+44,Male,AB-,diabetes,7/1/2021,"davis white, flores and",21856.73825,elective,7/23/2021,22
+18,Female,B+,obesity,8/21/2022,williams-jones,45326.91486,emergency,9/4/2022,14
+51,Male,A-,cancer,8/6/2020,inc holloway,25152.29389,emergency,8/26/2020,20
+26,Female,AB+,diabetes,1/16/2022,"phillips jones and wu,",37544.80371,elective,2/10/2022,25
+44,Male,O-,diabetes,8/2/2021,"wilson and lopez, molina",35487.51241,urgent,8/4/2021,2
+56,Female,AB+,obesity,3/17/2020,jones-garrett,2076.325536,emergency,4/13/2020,27
+24,Male,AB+,obesity,7/23/2020,"and brown, james green",35312.30148,emergency,8/3/2020,11
+39,Male,O-,hypertension,7/22/2022,"meadows and nelson, owen",13869.78852,urgent,7/24/2022,2
+53,Male,O-,hypertension,8/8/2020,sons and gallegos,36107.40314,emergency,8/21/2020,13
+21,Male,O-,asthma,9/29/2023,davis group,41208.16759,emergency,10/6/2023,7
+82,Female,B-,cancer,1/5/2022,herrera group,14292.06579,urgent,1/8/2022,3
+61,Female,AB-,cancer,6/22/2020,juarez-weiss,17722.96108,emergency,7/20/2020,28
+59,Female,AB-,obesity,10/26/2019,dawson-jones,21125.32198,elective,10/29/2019,3
+51,Female,O+,arthritis,2/21/2024,hickman group,5164.553856,urgent,3/19/2024,27
+43,Male,AB+,hypertension,1/7/2023,herman-ewing,2162.607297,emergency,1/8/2023,1
+79,Male,B+,cancer,9/21/2023,gutierrez inc,2675.230609,emergency,10/1/2023,10
+79,Female,B-,arthritis,12/7/2022,hurley-gill,44918.3238,emergency,12/21/2022,14
+49,Male,O+,obesity,12/13/2022,dillon plc,6327.801026,emergency,12/28/2022,15
+68,Female,O-,hypertension,11/16/2022,"murphy, and garcia jones",29526.32153,elective,11/21/2022,5
+69,Female,O+,asthma,6/19/2019,ramsey-thomas,38989.53376,elective,7/17/2019,28
+49,Female,B+,obesity,1/29/2023,miller and sons,33395.10366,emergency,2/18/2023,20
+27,Female,O-,cancer,11/30/2023,"chung herrera, and pollard",20258.78032,elective,12/12/2023,12
+73,Male,A+,obesity,3/26/2021,"and hernandez waters, cruz",43050.83138,urgent,4/20/2021,25
+42,Female,AB+,diabetes,8/21/2021,schmidt sons and,37284.04971,elective,9/3/2021,13
+59,Female,O-,cancer,1/3/2024,"and carroll orr kelly,",42434.77686,urgent,1/25/2024,22
+20,Female,A+,hypertension,3/23/2024,"smith and rose rivera,",38570.12641,emergency,4/21/2024,29
+61,Female,A+,cancer,12/3/2022,odonnell-watts,22108.972,emergency,12/10/2022,7
+50,Male,B+,asthma,9/25/2021,inc roberts,40783.1503,urgent,10/23/2021,28
+29,Female,B-,asthma,8/23/2020,llc chaney,28296.1835,emergency,8/26/2020,3
+44,Male,B+,asthma,9/18/2020,"hutchinson, wilson daniel and",46950.58326,elective,10/16/2020,28
+37,Female,AB+,diabetes,8/1/2022,davis-martin,41548.15083,elective,8/30/2022,29
+79,Female,AB-,hypertension,1/11/2020,"and thompson cook wiggins,",43277.56449,urgent,1/25/2020,14
+18,Male,AB+,hypertension,10/16/2020,baldwin plc,41248.13084,elective,10/17/2020,1
+25,Female,A+,cancer,4/29/2024,heath-brown,6162.345959,emergency,5/19/2024,20
+64,Female,O+,cancer,7/5/2022,"mendez, and smith munoz",45208.33769,urgent,7/6/2022,1
+23,Male,B+,diabetes,8/27/2019,inc daugherty,36324.52348,emergency,9/15/2019,19
+57,Male,A-,hypertension,3/10/2024,gonzalez llc,46084.67377,urgent,3/22/2024,12
+49,Female,AB-,asthma,2/16/2023,hunter-hughes,-1018.245371,elective,3/9/2023,21
+49,Female,O-,diabetes,4/25/2024,"and woods, rodriguez williams",6657.347141,elective,5/14/2024,19
+65,Female,B-,asthma,9/25/2023,lowery-howard,39357.45974,urgent,10/13/2023,18
+59,Female,AB-,arthritis,9/12/2022,colon-leon,23154.6385,emergency,9/21/2022,9
+82,Male,O+,diabetes,6/30/2019,boyle-woods,6653.59156,emergency,7/22/2019,22
+31,Male,B-,diabetes,2/12/2023,"and graham morris, gonzales",15327.74216,urgent,2/27/2023,15
+63,Female,AB-,obesity,1/23/2020,tucker-moyer,31457.79731,elective,2/1/2020,9
+78,Male,AB+,asthma,11/25/2022,sons and stephenson,21875.08332,elective,12/11/2022,16
+25,Female,A+,diabetes,2/10/2021,hernandez plc,49635.30652,elective,2/17/2021,7
+66,Male,AB-,cancer,1/30/2023,dougherty group,41413.80939,emergency,2/27/2023,28
+58,Male,O+,arthritis,8/24/2019,"morgan zimmerman, matthews and",16352.58628,urgent,9/17/2019,24
+28,Female,A+,arthritis,2/5/2024,jimenez-huff,1805.522806,urgent,2/6/2024,1
+18,Female,O+,arthritis,8/30/2021,stevenson-chen,38363.26127,emergency,9/25/2021,26
+46,Female,B+,asthma,1/7/2022,parker-white,32746.55637,urgent,1/25/2022,18
+44,Male,AB+,arthritis,9/8/2023,"vang schneider and torres,",36649.32428,elective,10/6/2023,28
+52,Female,B+,cancer,10/7/2021,booth-williams,3288.125879,elective,10/10/2021,3
+24,Female,B+,cancer,2/29/2020,gray-black,32993.4924,urgent,3/17/2020,17
+53,Male,A+,obesity,8/6/2019,johnson-garcia,3338.215511,emergency,9/3/2019,28
+46,Female,A-,obesity,8/6/2019,"salinas terrell villanueva, and",21401.52106,urgent,8/9/2019,3
+72,Female,O+,asthma,12/6/2021,phelps group,35828.3195,emergency,12/12/2021,6
+54,Female,A-,asthma,5/19/2020,"harrison and erickson, barnett",14171.98971,elective,6/11/2020,23
+73,Male,AB+,hypertension,12/27/2019,fischer ltd,30283.17459,emergency,12/29/2019,2
+69,Female,AB-,cancer,6/4/2022,rhodes-kelly,31419.11937,urgent,6/13/2022,9
+32,Male,O+,diabetes,1/18/2023,"tate pierce and jackson,",23734.85401,emergency,2/3/2023,16
+29,Male,B+,diabetes,7/25/2023,inc daniel,45417.64235,elective,7/28/2023,3
+82,Female,A+,arthritis,7/17/2020,"and roberson lee young,",12822.78329,urgent,8/9/2020,23
+19,Male,O-,obesity,2/3/2023,giles-miller,25856.2202,emergency,2/23/2023,20
+63,Male,A-,arthritis,11/27/2021,"martinez, and snyder hill",10443.67777,elective,12/8/2021,11
+38,Male,A-,hypertension,8/18/2020,barber-page,40606.45848,emergency,8/24/2020,6
+74,Male,B+,diabetes,7/6/2019,"and hess delgado foster,",32535.44837,emergency,8/2/2019,27
+38,Male,B-,asthma,2/17/2024,johnson-holland,34557.28864,emergency,2/19/2024,2
+53,Male,AB-,arthritis,9/6/2021,"and gonzales dunn, camacho",35116.71047,emergency,10/5/2021,29
+36,Male,AB+,diabetes,12/17/2021,"rodriguez diaz daugherty, and",28270.30357,elective,1/7/2022,21
+67,Female,A+,arthritis,9/20/2022,rowland-abbott,47734.98787,emergency,10/7/2022,17
+63,Male,AB-,asthma,12/13/2021,"murphy, reid knox and",19176.2617,elective,12/20/2021,7
+39,Male,A+,arthritis,10/12/2021,ryan-mcneil,8731.482275,emergency,10/27/2021,15
+55,Male,O-,asthma,8/8/2023,"ramos miller and moore,",19249.68719,emergency,8/21/2023,13
+80,Male,AB-,obesity,11/15/2019,sons cherry and,22758.6376,elective,12/13/2019,28
+18,Female,B-,asthma,12/17/2021,cook llc,20929.06654,emergency,12/26/2021,9
+41,Male,O+,cancer,11/8/2022,phillips ltd,3899.863641,emergency,11/11/2022,3
+81,Male,A+,arthritis,2/24/2020,"oliver griffin johnson, and",19698.00074,elective,3/16/2020,21
+66,Female,O+,asthma,5/28/2022,gregory group,34060.27295,elective,6/22/2022,25
+44,Male,A+,hypertension,9/3/2022,"and camacho thomas malone,",40367.63417,elective,9/30/2022,27
+81,Female,AB-,arthritis,4/7/2020,llc smith,3638.246196,emergency,4/30/2020,23
+77,Male,O+,arthritis,8/25/2019,"cunningham andrade and butler,",46134.92598,elective,9/4/2019,10
+62,Male,B-,obesity,5/28/2021,curtis-lin,14549.49467,urgent,6/9/2021,12
+78,Male,O+,cancer,2/25/2024,ltd smith,30549.65332,emergency,3/8/2024,12
+70,Male,O+,diabetes,9/8/2019,inc sanchez,13666.17587,elective,9/9/2019,1
+33,Male,B-,asthma,5/25/2023,"rice, cooper rivera and",45199.27331,elective,5/29/2023,4
+56,Female,AB-,arthritis,7/11/2023,garcia llc,20514.40018,elective,8/1/2023,21
+38,Male,A+,cancer,3/20/2024,bell ltd,47700.53753,emergency,4/5/2024,16
+33,Male,AB+,hypertension,11/5/2021,"hogan, young holmes and",2462.21032,urgent,11/6/2021,1
+25,Male,O-,hypertension,8/27/2023,vazquez-sanchez,31401.50185,urgent,8/28/2023,1
+66,Female,B-,obesity,5/26/2022,mcintyre ltd,20749.86282,elective,5/30/2022,4
+47,Male,B+,hypertension,9/13/2021,"white roberts and lee,",47297.41907,emergency,9/16/2021,3
+53,Female,O-,obesity,3/10/2024,"simpson espinoza, and thompson",26223.16583,urgent,3/15/2024,5
+37,Male,AB+,asthma,9/26/2022,and moore sons,35821.64934,urgent,10/24/2022,28
+56,Male,A-,arthritis,12/26/2019,"and mclaughlin powers stevens,",21633.32776,elective,12/27/2019,1
+51,Male,A-,arthritis,1/18/2021,"and anderson, porter becker",39448.88651,elective,2/11/2021,24
+40,Female,O-,cancer,2/23/2021,bailey-hunt,8867.746669,emergency,3/20/2021,25
+56,Female,AB+,arthritis,3/15/2020,"king and bryant olsen,",5571.235246,elective,3/22/2020,7
+76,Male,A+,asthma,9/22/2019,"watson johnson joseph, and",13014.33,emergency,9/28/2019,6
+81,Male,AB+,obesity,12/7/2023,group evans,27828.93952,emergency,12/13/2023,6
+84,Female,O-,arthritis,7/1/2020,"collins porter and rodgers,",36931.48285,elective,7/9/2020,8
+54,Male,O+,obesity,5/12/2020,"and goodwin, hernandez andrade",41307.89583,elective,5/17/2020,5
+40,Male,B+,asthma,8/29/2022,solomon plc,36632.31835,urgent,9/10/2022,12
+79,Male,O-,cancer,11/1/2019,flores sons and,17658.4724,emergency,11/19/2019,18
+52,Male,AB-,cancer,8/16/2019,lowe llc,10034.72126,emergency,9/15/2019,30
+42,Male,B+,diabetes,2/28/2021,"lopez keller, williams and",7383.383359,emergency,3/14/2021,14
+41,Male,A+,asthma,9/7/2020,brown-wood,28974.45533,elective,9/30/2020,23
+26,Male,A+,arthritis,2/16/2024,martinez-davis,4697.234334,elective,2/28/2024,12
+76,Female,B+,cancer,1/16/2021,alexander-oconnor,41150.19069,elective,1/27/2021,11
+29,Female,A+,arthritis,1/31/2023,carlson-stone,30324.45091,emergency,2/14/2023,14
+19,Male,B-,hypertension,7/29/2022,"george ward, and clark",33646.11409,emergency,8/21/2022,23
+30,Female,O-,diabetes,4/27/2022,nicholson-johnson,46717.95011,urgent,5/1/2022,4
+37,Female,O-,asthma,6/6/2020,plc carr,49997.32637,elective,6/22/2020,16
+82,Female,AB-,asthma,11/2/2019,alexander-middleton,38397.02332,elective,11/28/2019,26
+84,Female,B+,obesity,9/12/2022,horton-martinez,10135.86552,urgent,9/22/2022,10
+52,Female,A+,arthritis,1/10/2021,group schneider,25685.62576,emergency,1/25/2021,15
+75,Female,B-,hypertension,11/5/2019,plc obrien,6007.693943,emergency,11/8/2019,3
+30,Male,A+,cancer,2/17/2021,ramos-holt,7609.436017,urgent,3/7/2021,18
+76,Male,A-,diabetes,6/4/2023,"patterson and peterson, velazquez",46287.04931,emergency,6/27/2023,23
+56,Male,B-,diabetes,9/7/2023,"jensen and jackson, greene",19204.91778,emergency,10/6/2023,29
+65,Female,O-,hypertension,9/29/2022,mathews-lawrence,45019.02631,emergency,10/9/2022,10
+83,Female,A+,obesity,2/3/2022,"morales, johnson and carlson",44581.1535,urgent,2/8/2022,5
+43,Female,B+,hypertension,2/14/2024,"wilson, ward taylor and",8726.699006,elective,3/2/2024,17
+84,Male,A+,hypertension,9/10/2020,torres-johnson,41966.56891,urgent,9/21/2020,11
+84,Female,B+,hypertension,1/24/2023,inc mcbride,44255.32601,urgent,1/27/2023,3
+77,Male,O-,obesity,10/1/2021,"and dunlap, wright mays",43644.33708,emergency,10/23/2021,22
+60,Male,O+,arthritis,6/5/2021,sullivan-crosby,45304.3895,elective,6/11/2021,6
+48,Male,O+,arthritis,8/9/2023,"and shaw, davis pollard",18891.92099,urgent,8/26/2023,17
+80,Female,B-,asthma,12/22/2020,williams llc,18381.58295,urgent,1/16/2021,25
+46,Male,A+,hypertension,6/21/2022,franklin ltd,42316.12427,elective,7/10/2022,19
+38,Male,B-,arthritis,5/5/2021,galloway-barnett,15072.57093,elective,5/15/2021,10
+72,Female,A-,asthma,4/20/2024,"miller olson, and collins",7380.731298,elective,5/10/2024,20
+70,Female,A+,asthma,6/13/2022,"wheeler and miller burch,",5936.363411,elective,7/5/2022,22
+46,Female,O+,hypertension,9/1/2023,mercer-booker,7704.300991,emergency,9/18/2023,17
+82,Male,AB+,cancer,3/14/2020,"and burke skinner myers,",12099.7931,urgent,4/1/2020,18
+44,Female,A+,hypertension,6/5/2022,"and parker, stout chase",17202.89964,elective,6/29/2022,24
+34,Female,O+,asthma,12/19/2019,"fernandez harris, and wilson",25275.94423,urgent,1/16/2020,28
+49,Male,A-,hypertension,12/6/2020,young-myers,17002.30327,emergency,12/9/2020,3
+44,Female,B+,cancer,5/13/2019,johnson plc,4794.751355,emergency,6/10/2019,28
+37,Male,A-,hypertension,1/17/2023,"barber waters castillo, and",7241.195989,elective,2/5/2023,19
+37,Male,AB-,arthritis,7/28/2022,jarvis-craig,45218.74105,elective,8/16/2022,19
+58,Female,O+,diabetes,10/15/2022,schneider-patton,32052.05646,urgent,11/5/2022,21
+20,Female,A+,obesity,5/25/2020,"kane porter and robinson,",30718.54628,elective,6/6/2020,12
+43,Male,A-,obesity,2/13/2021,archer inc,51441.72905,urgent,3/3/2021,18
+57,Female,AB-,cancer,5/31/2023,castaneda-powell,1821.347946,emergency,6/25/2023,25
+76,Male,AB+,arthritis,1/18/2020,"king, williams and terry",23857.49948,urgent,1/26/2020,8
+53,Female,B-,cancer,8/19/2020,henry plc,4795.513439,urgent,8/28/2020,9
+45,Male,A-,diabetes,12/24/2022,"and carpenter, hernandez chang",25500.707,emergency,1/22/2023,29
+21,Female,O+,asthma,9/5/2020,santiago-bush,10837.61458,emergency,9/25/2020,20
+64,Male,A-,arthritis,9/10/2022,"williams hale and summers,",46836.7059,elective,9/22/2022,12
+71,Male,AB-,diabetes,4/26/2021,ltd carroll,11426.01213,emergency,5/4/2021,8
+28,Female,O-,diabetes,1/20/2024,"stevenson, harding and woods",20590.5154,urgent,1/28/2024,8
+79,Male,A-,hypertension,3/5/2021,munoz ltd,28100.09253,emergency,3/15/2021,10
+40,Male,O+,arthritis,12/27/2020,llc hernandez,33188.92655,urgent,1/23/2021,27
+50,Female,AB+,asthma,9/22/2021,"kidd romero, and douglas",47130.0256,urgent,10/15/2021,23
+64,Female,B-,cancer,5/1/2023,and cordova sons,20361.86552,urgent,5/31/2023,30
+81,Male,O+,obesity,5/12/2019,garcia-clark,11229.75549,emergency,5/23/2019,11
+52,Female,O+,hypertension,2/22/2021,robinson group,6969.091522,emergency,3/15/2021,21
+76,Male,B+,obesity,3/10/2022,"hayes ryan, and martinez",31405.58063,urgent,3/18/2022,8
+52,Male,B+,obesity,10/23/2022,"glover and oneill miller,",22976.90758,emergency,11/3/2022,11
+77,Female,O-,cancer,3/13/2024,diaz inc,32136.51041,emergency,3/29/2024,16
+81,Male,AB+,hypertension,8/6/2019,martin-nguyen,39313.88983,elective,8/16/2019,10
+36,Male,B-,obesity,9/15/2020,roberts inc,5624.288669,emergency,9/26/2020,11
+72,Female,AB+,cancer,10/31/2019,"riley, grimes ruiz and",5823.048061,elective,11/3/2019,3
+70,Male,O-,diabetes,9/7/2020,ltd rogers,11628.61734,urgent,9/19/2020,12
+44,Female,O-,arthritis,8/27/2021,gomez inc,8104.667977,elective,9/24/2021,28
+81,Female,A-,arthritis,12/21/2019,plc mack,12093.08681,emergency,1/15/2020,25
+41,Male,B-,arthritis,9/23/2019,castro-gomez,29465.81709,urgent,9/26/2019,3
+32,Female,A+,arthritis,5/21/2022,"chan, goodman and gould",22545.92923,emergency,5/25/2022,4
+58,Female,B-,obesity,12/29/2019,"russell and randolph, lawrence",2641.016179,elective,1/4/2020,6
+33,Male,A-,arthritis,4/3/2020,evans-gonzalez,16527.25787,elective,4/4/2020,1
+80,Male,A+,cancer,12/15/2022,miller sons and,13624.82928,urgent,12/28/2022,13
+67,Male,O-,obesity,8/7/2020,watts-schneider,39570.06896,urgent,8/9/2020,2
+39,Male,A-,diabetes,3/19/2022,harrell inc,13256.41456,urgent,3/20/2022,1
+52,Male,A+,arthritis,3/10/2024,"reed valdez and pratt,",32633.20307,emergency,3/26/2024,16
+49,Male,AB-,arthritis,11/29/2019,ali group,19720.0359,emergency,11/30/2019,1
+41,Male,B-,hypertension,7/17/2019,conner-nelson,46421.26125,emergency,8/12/2019,26
+81,Female,O-,hypertension,5/27/2020,"and miller prince rodriguez,",10767.37667,elective,6/12/2020,16
+19,Female,A-,hypertension,9/6/2019,"parker davis clark, and",47656.51701,emergency,10/1/2019,25
+83,Male,AB+,hypertension,4/6/2021,mills-petersen,46186.16325,elective,5/6/2021,30
+36,Female,O+,cancer,5/19/2019,"smith anderson and hunt,",44148.54288,emergency,5/29/2019,10
+43,Female,A-,cancer,9/24/2023,kennedy-smith,12447.26512,elective,10/20/2023,26
+72,Male,AB-,diabetes,9/30/2019,"and moore, ballard johnson",43298.4337,urgent,10/10/2019,10
+73,Female,A+,asthma,7/23/2022,"williams reynolds and rangel,",33379.54547,emergency,8/16/2022,24
+32,Male,AB-,cancer,5/11/2020,"shelton johnson, and green",37553.16097,emergency,6/6/2020,26
+39,Male,O+,asthma,8/1/2019,"lopez, and howard morrison",44931.12877,elective,8/8/2019,7
+72,Male,B+,asthma,9/6/2019,sons and cortez,44595.97086,urgent,9/15/2019,9
+24,Male,B-,cancer,1/28/2023,roberts ltd,10243.97206,emergency,2/26/2023,29
+32,Female,O-,obesity,9/11/2023,sellers-shepard,8762.503072,emergency,10/11/2023,30
+57,Female,AB+,asthma,3/11/2020,"lloyd scott, and reese",10363.66893,emergency,3/18/2020,7
+56,Male,B-,asthma,3/7/2021,gibson-osborne,22827.8109,urgent,3/21/2021,14
+84,Female,O+,asthma,4/3/2024,matthews-morgan,22913.34873,urgent,4/10/2024,7
+46,Male,B-,cancer,12/25/2022,scott and sons,33800.90849,urgent,1/10/2023,16
+55,Male,AB+,obesity,4/1/2020,diaz-richards,23713.92381,urgent,4/26/2020,25
+19,Female,A+,hypertension,1/23/2020,llc johnson,41794.35543,emergency,2/20/2020,28
+69,Female,O+,diabetes,2/10/2023,murphy group,40304.38007,emergency,2/25/2023,15
+69,Female,B-,cancer,10/20/2023,"barajas and byrd, wolf",43825.05667,elective,10/28/2023,8
+56,Male,A-,hypertension,7/15/2020,"salazar newman white, and",16509.89323,emergency,8/11/2020,27
+36,Female,A-,arthritis,1/14/2023,hancock-lewis,46268.72904,elective,2/8/2023,25
+44,Male,A-,arthritis,6/19/2021,barrett-wright,36272.75182,emergency,7/14/2021,25
+32,Male,O-,obesity,5/18/2020,"bowers blankenship jackson, and",5614.518227,urgent,5/19/2020,1
+61,Female,B-,arthritis,5/16/2020,hahn-wilson,21429.67391,elective,6/15/2020,30
+61,Male,AB+,cancer,3/11/2021,"ramirez and nelson, collins",24057.47093,emergency,4/2/2021,22
+47,Male,B-,arthritis,2/5/2023,sosa-jackson,22775.47094,elective,2/12/2023,7
+49,Female,A+,obesity,10/19/2021,dillon-richard,30953.78226,urgent,11/12/2021,24
+83,Male,B-,asthma,9/7/2019,stokes and sons,12101.13066,urgent,9/29/2019,22
+63,Male,B-,asthma,5/26/2021,inc nguyen,1478.181139,elective,6/20/2021,25
+26,Female,O-,cancer,5/7/2021,gallagher-hernandez,37197.85565,urgent,5/27/2021,20
+20,Female,AB-,arthritis,1/17/2023,"johnson david carpenter, and",5407.728755,elective,1/29/2023,12
+69,Male,AB-,asthma,3/5/2020,"and montes marshall valdez,",6035.458069,urgent,3/6/2020,1
+26,Male,AB-,asthma,9/16/2022,plc kelly,5778.245819,elective,10/16/2022,30
+36,Male,AB+,arthritis,6/3/2022,wilson-sherman,46602.69268,elective,6/28/2022,25
+27,Male,AB-,diabetes,12/30/2020,peterson group,47789.82597,emergency,1/26/2021,27
+60,Female,B-,obesity,8/9/2020,hall-taylor,46608.39289,emergency,8/15/2020,6
+67,Female,AB-,arthritis,3/10/2021,rios plc,8709.035963,elective,3/29/2021,19
+41,Female,O+,cancer,3/15/2021,"lutz, lester and kelly",18270.99527,urgent,3/26/2021,11
+45,Male,B-,hypertension,8/23/2021,"scott, moore and brewer",17679.02668,urgent,8/24/2021,1
+37,Male,A+,diabetes,11/11/2023,"sullivan henderson lloyd, and",21965.1474,emergency,11/28/2023,17
+46,Male,A+,cancer,12/31/2023,"and rhodes trujillo, booth",27309.70788,emergency,1/27/2024,27
+71,Female,A+,arthritis,9/21/2019,bailey-white,4437.95635,emergency,10/20/2019,29
+69,Female,B+,hypertension,11/4/2022,bridges inc,15704.08922,emergency,11/13/2022,9
+65,Male,O-,asthma,8/8/2019,"jackson carr, garcia and",16528.80182,urgent,8/19/2019,11
+75,Female,O+,arthritis,10/5/2023,richardson-griffin,3621.161691,elective,10/8/2023,3
+77,Male,O+,diabetes,8/28/2020,allen-campbell,47863.02392,urgent,9/4/2020,7
+22,Male,A+,obesity,7/8/2020,ferguson-liu,46772.5812,emergency,7/13/2020,5
+58,Female,O+,obesity,10/6/2023,lee ltd,18479.74328,urgent,10/9/2023,3
+25,Female,A-,cancer,7/1/2023,baldwin-marshall,7285.489592,urgent,7/5/2023,4
+83,Female,B-,diabetes,8/7/2021,norman plc,6818.72448,elective,8/20/2021,13
+27,Male,A-,hypertension,5/13/2020,boyd-fisher,14374.313,urgent,5/26/2020,13
+32,Male,B-,arthritis,9/26/2023,inc davis,5936.177145,urgent,9/29/2023,3
+40,Male,A+,diabetes,6/14/2023,perry inc,32897.26731,urgent,6/15/2023,1
+25,Male,AB-,asthma,5/5/2024,"and brown larson moyer,",3963.121128,urgent,5/7/2024,2
+69,Male,A-,asthma,4/3/2023,soto-boyle,16057.82016,elective,4/11/2023,8
+25,Female,B-,diabetes,10/24/2021,jones-ellis,44041.57374,emergency,11/13/2021,20
+66,Female,B+,arthritis,5/24/2023,"jenkins, mathews and ho",15086.15878,urgent,6/9/2023,16
+62,Male,A+,hypertension,12/20/2019,villa inc,16377.52313,urgent,1/17/2020,28
+30,Male,A-,hypertension,4/27/2022,castro plc,43488.83863,elective,5/4/2022,7
+55,Male,B+,hypertension,11/14/2019,ortiz-martin,43108.88806,emergency,11/16/2019,2
+78,Female,O-,hypertension,4/17/2022,anthony-torres,21585.24342,emergency,4/25/2022,8
+69,Female,A-,arthritis,4/15/2022,plc drake,28922.86052,urgent,5/12/2022,27
+77,Male,O+,cancer,3/13/2021,schmidt ltd,14808.74759,emergency,3/14/2021,1
+56,Female,A+,hypertension,12/18/2021,ortiz-gardner,26824.00264,emergency,1/6/2022,19
+58,Female,O-,asthma,12/9/2022,smith-white,49741.76823,emergency,12/27/2022,18
+78,Female,O-,asthma,1/6/2024,ltd stewart,14687.49995,elective,1/31/2024,25
+50,Male,O+,asthma,12/27/2020,"hunter and james wilson,",30770.32271,emergency,12/30/2020,3
+38,Female,O-,obesity,1/5/2024,martinez-elliott,32173.35154,elective,1/6/2024,1
+81,Female,A-,cancer,2/24/2021,wright-nguyen,28009.03341,urgent,2/28/2021,4
+80,Male,AB-,cancer,9/11/2023,"and johnson wright carter,",14657.57329,elective,9/27/2023,16
+48,Female,A+,cancer,1/31/2022,johnson-collins,49492.13632,elective,2/9/2022,9
+22,Male,O+,arthritis,8/22/2022,olsen llc,7647.467841,emergency,9/15/2022,24
+50,Male,A-,arthritis,10/7/2021,smith llc,37340.17187,urgent,10/8/2021,1
+19,Male,O-,diabetes,10/4/2021,rodriguez-morgan,23743.09829,emergency,10/13/2021,9
+79,Male,A+,obesity,8/13/2023,ltd bell,10322.73695,emergency,9/2/2023,20
+44,Female,B-,arthritis,11/16/2019,"and thompson mccall, brooks",5009.974996,urgent,11/25/2019,9
+50,Female,A-,hypertension,5/10/2023,castillo llc,22823.92438,emergency,6/4/2023,25
+20,Female,O+,arthritis,3/28/2021,torres group,27854.68007,urgent,4/17/2021,20
+60,Male,A+,hypertension,12/21/2021,"and wagner, lee klein",-306.3649251,elective,1/11/2022,21
+75,Male,B+,asthma,2/5/2021,"boyd and baker rasmussen,",2223.609989,emergency,2/17/2021,12
+45,Female,AB+,asthma,7/15/2023,owens-adkins,13534.10945,urgent,7/23/2023,8
+20,Female,O-,asthma,1/20/2023,plc lewis,5851.030625,emergency,2/18/2023,29
+50,Female,AB-,hypertension,3/22/2020,brennan-walters,20831.13595,emergency,4/1/2020,10
+39,Female,AB+,diabetes,10/17/2020,"and mcdonald taylor, pitts",10556.97519,emergency,10/26/2020,9
+32,Female,O+,asthma,1/19/2021,martin llc,29831.51574,elective,2/5/2021,17
+58,Male,A-,diabetes,3/26/2023,huang-blanchard,30143.30118,urgent,4/5/2023,10
+67,Female,A-,diabetes,9/28/2022,"gonzalez and marks, lopez",34555.17166,emergency,10/16/2022,18
+59,Male,AB-,cancer,10/20/2019,"molina, rogers and horton",3915.229618,elective,11/7/2019,18
+37,Male,O+,arthritis,3/13/2022,"haynes miller, and gray",36541.89485,emergency,3/17/2022,4
+37,Male,B+,obesity,3/19/2020,"garcia woodward and morgan,",6709.755375,elective,3/22/2020,3
+59,Female,O+,diabetes,2/22/2021,and kennedy sons,5078.627303,elective,3/4/2021,10
+68,Male,B-,arthritis,6/28/2021,inc anderson,36247.04392,emergency,7/27/2021,29
+51,Female,A-,hypertension,10/8/2022,"armstrong everett, adams and",24786.21802,elective,11/5/2022,28
+74,Male,B-,hypertension,10/5/2021,mclaughlin-jenkins,28652.03903,urgent,10/26/2021,21
+81,Female,AB+,hypertension,2/15/2023,parks plc,9824.840766,emergency,2/22/2023,7
+60,Male,O-,diabetes,1/24/2021,"hendrix, roberts and pitts",3763.772427,urgent,2/11/2021,18
+44,Male,A+,hypertension,1/22/2022,"and berger perry, calhoun",31043.20634,urgent,2/9/2022,18
+33,Female,AB-,obesity,3/2/2023,evans-molina,14033.54521,emergency,3/3/2023,1
+35,Male,B+,obesity,10/26/2020,and sons tucker,28978.374,emergency,10/31/2020,5
+46,Male,B-,asthma,2/9/2022,group holder,46467.77081,urgent,2/16/2022,7
+51,Female,B+,hypertension,10/26/2023,lawrence plc,19095.52451,emergency,11/21/2023,26
+65,Male,A-,obesity,1/11/2024,smith ltd,13302.22991,elective,1/15/2024,4
+75,Male,O+,hypertension,5/25/2022,howe-smith,47701.5277,emergency,6/19/2022,25
+33,Female,B-,cancer,7/31/2019,plc vargas,3311.874195,elective,8/8/2019,8
+45,Female,O+,diabetes,2/27/2022,"and ray wood barrett,",3553.896471,emergency,3/3/2022,4
+81,Female,AB+,diabetes,5/15/2021,"davis moore bartlett, and",41320.70858,elective,5/31/2021,16
+56,Female,B-,arthritis,7/27/2023,barton-johnson,14150.51155,elective,8/19/2023,23
+57,Male,A+,obesity,8/1/2022,salas-farmer,34903.67037,emergency,8/16/2022,15
+75,Male,A+,arthritis,5/17/2021,"neal and roberson hicks,",47641.69925,urgent,5/30/2021,13
+22,Male,A+,cancer,3/22/2022,robinson inc,4440.423373,elective,4/1/2022,10
+68,Male,B+,hypertension,8/31/2020,and howard sons,19936.65975,elective,9/13/2020,13
+22,Male,AB+,arthritis,3/17/2021,"and morris mullins, hernandez",44863.65089,emergency,3/20/2021,3
+47,Male,A+,cancer,6/13/2019,rodriguez-howard,6877.477401,emergency,6/17/2019,4
+66,Male,AB-,hypertension,8/1/2020,martin ltd,17036.10858,elective,8/22/2020,21
+51,Female,O+,cancer,3/25/2020,jordan-hood,19825.21712,emergency,4/5/2020,11
+45,Male,AB+,asthma,5/3/2020,fox-singleton,47624.24846,urgent,5/27/2020,24
+23,Female,A+,arthritis,11/29/2022,"holland, daniels brennan and",22014.56051,elective,12/17/2022,18
+77,Male,AB-,obesity,12/12/2019,sanchez-green,17621.51913,elective,12/27/2019,15
+68,Male,B+,asthma,4/14/2023,brown llc,47742.58882,urgent,5/3/2023,19
+21,Female,AB+,cancer,9/8/2021,pacheco-morris,40960.95747,elective,10/3/2021,25
+28,Male,A+,hypertension,5/16/2020,"odonnell, kelly mejia and",45977.38137,urgent,5/20/2020,4
+64,Male,B+,obesity,5/24/2020,zimmerman-schneider,29685.10982,emergency,6/1/2020,8
+23,Male,B-,obesity,1/5/2020,"hoover rodriguez, and vang",11418.62217,urgent,1/31/2020,26
+29,Female,B-,cancer,5/20/2023,fuller sons and,20578.29571,emergency,5/25/2023,5
+79,Female,O-,arthritis,10/16/2023,and sons bonilla,7068.913984,elective,10/27/2023,11
+53,Male,O+,cancer,12/9/2022,"and gordon lee yang,",16964.06034,urgent,12/12/2022,3
+25,Female,AB-,cancer,10/21/2022,llc howard,16428.99224,urgent,11/14/2022,24
+60,Male,O-,obesity,2/27/2020,"and shields williams, james",49241.69058,elective,3/16/2020,18
+59,Female,AB+,obesity,8/28/2022,moore-sanders,28954.26139,emergency,9/14/2022,17
+26,Female,A+,diabetes,11/15/2023,"ortiz, and massey norton",2329.108093,urgent,11/27/2023,12
+56,Male,AB+,obesity,3/25/2023,plc anderson,17327.9845,urgent,3/26/2023,1
+53,Female,A+,obesity,2/28/2021,herring-smith,22475.88372,emergency,3/29/2021,29
+73,Female,B+,diabetes,5/14/2021,plc hale,32773.81627,emergency,5/17/2021,3
+38,Male,B+,obesity,4/19/2020,"parker jackson, jackson and",17202.04638,urgent,5/12/2020,23
+73,Female,A-,cancer,1/18/2024,"parsons petersen, mckenzie and",43801.72709,emergency,2/8/2024,21
+20,Female,B-,arthritis,5/5/2021,guerrero-jordan,8042.612464,emergency,5/20/2021,15
+19,Male,A+,hypertension,6/27/2020,"lee pugh, and orozco",26660.4482,urgent,7/23/2020,26
+79,Female,A+,obesity,1/8/2022,"payne parker, murphy and",33071.26657,emergency,1/31/2022,23
+56,Female,A+,arthritis,9/1/2019,"and hernandez mckinney li,",36923.54008,emergency,10/1/2019,30
+54,Female,O-,arthritis,2/17/2020,hancock ltd,34455.47548,urgent,2/21/2020,4
+37,Female,O-,arthritis,4/5/2021,"mitchell brown and rice,",29993.37901,elective,4/9/2021,4
+23,Male,B+,diabetes,7/14/2023,garcia-martinez,9736.464738,urgent,7/18/2023,4
+35,Male,A+,cancer,1/6/2021,douglas-diaz,43625.56217,emergency,1/25/2021,19
+52,Male,A-,cancer,5/5/2023,ltd tran,33864.95313,elective,5/14/2023,9
+58,Male,O+,asthma,2/17/2020,"smith and foster cooper,",12004.40476,elective,3/6/2020,18
+28,Male,B+,arthritis,8/27/2022,hunter inc,1910.77855,urgent,9/7/2022,11
+47,Female,A-,diabetes,10/9/2019,sons flores and,9594.886274,emergency,11/7/2019,29
+68,Female,B+,arthritis,5/6/2022,green group,3770.637381,emergency,5/14/2022,8
+25,Female,B+,cancer,7/8/2019,"lewis, gibbs and powell",12950.75958,emergency,7/14/2019,6
+71,Female,O+,arthritis,9/12/2020,"gomez and espinoza, wilson",14564.74608,emergency,9/18/2020,6
+36,Female,B+,diabetes,12/2/2021,sons martin and,38276.35622,emergency,12/16/2021,14
+34,Male,A+,diabetes,9/8/2022,sons and moore,12586.42218,urgent,9/21/2022,13
+23,Female,A+,cancer,1/30/2021,hernandez-pearson,34251.2201,elective,2/19/2021,20
+66,Male,O+,diabetes,4/3/2020,harrison-robles,23812.42448,emergency,4/30/2020,27
+57,Male,B-,obesity,8/14/2022,ltd guerra,26378.97927,urgent,9/13/2022,30
+73,Female,AB-,asthma,5/9/2023,group hudson,34587.80723,urgent,5/30/2023,21
+21,Female,O+,asthma,12/29/2019,cordova llc,14945.32806,elective,1/7/2020,9
+27,Male,A-,obesity,4/10/2020,horton-boone,11023.28747,urgent,5/10/2020,30
+58,Female,O-,hypertension,11/19/2022,campbell-ryan,36841.60061,elective,12/15/2022,26
+31,Female,AB+,asthma,8/18/2019,"johnson aguilar hamilton, and",25894.00998,elective,8/30/2019,12
+64,Female,B+,cancer,9/30/2021,moreno inc,33631.41767,urgent,10/3/2021,3
+80,Female,AB+,arthritis,9/16/2019,group brown,32879.087,emergency,9/27/2019,11
+26,Female,AB+,arthritis,4/18/2021,inc singh,30502.46141,elective,4/30/2021,12
+56,Male,AB+,hypertension,2/13/2024,sanchez-mccullough,6576.085125,elective,2/24/2024,11
+46,Female,A+,diabetes,10/5/2020,"smith rodriguez and buchanan,",41392.78012,elective,10/7/2020,2
+53,Male,B-,hypertension,8/2/2021,grant-wiggins,30714.82456,emergency,8/26/2021,24
+58,Male,A-,cancer,10/16/2022,may-smith,30627.20862,emergency,10/26/2022,10
+40,Male,B-,cancer,12/13/2023,"franco and trevino clayton,",32482.15576,emergency,12/19/2023,6
+84,Female,O-,obesity,11/19/2023,herman-griffin,7238.963312,urgent,11/22/2023,3
+39,Female,O-,arthritis,1/3/2021,mcclure inc,41210.76572,urgent,1/10/2021,7
+41,Male,AB+,obesity,10/1/2022,watson-hill,1114.411559,emergency,10/20/2022,19
+74,Male,B+,cancer,5/24/2019,"martin rodriguez, richardson and",11162.42502,emergency,6/17/2019,24
+84,Female,O-,obesity,5/31/2021,"and gray smith, jennings",1990.269053,urgent,6/3/2021,3
+67,Female,B+,obesity,7/2/2019,"and reynolds moore martin,",32363.64418,elective,7/13/2019,11
+55,Female,B-,cancer,12/1/2022,inc wyatt,7949.353564,emergency,12/3/2022,2
+84,Female,B+,obesity,6/26/2019,"potts, salas fletcher and",36760.48329,elective,6/30/2019,4
+28,Male,A+,obesity,2/19/2023,carr group,24416.37602,emergency,3/13/2023,22
+57,Female,A-,diabetes,6/3/2020,osborne-hayes,25821.26488,elective,6/11/2020,8
+55,Male,O+,diabetes,5/6/2021,sullivan-thomas,29427.51412,urgent,5/14/2021,8
+22,Female,B-,hypertension,11/22/2020,group graves,13763.98316,elective,11/27/2020,5
+46,Female,AB+,hypertension,2/14/2021,inc gonzales,36135.23051,elective,3/2/2021,16
+55,Male,AB-,diabetes,8/12/2022,roberts-brock,1933.237943,elective,8/16/2022,4
+51,Female,B+,asthma,2/6/2023,plc johnson,48723.70848,emergency,3/2/2023,24
+80,Female,B+,arthritis,8/4/2021,"and gill, king osborn",37114.41168,urgent,8/30/2021,26
+67,Female,A+,asthma,1/20/2023,"and johnson, carter johnston",19190.26499,elective,2/2/2023,13
+21,Female,O-,arthritis,3/12/2021,"deleon oneal, moore and",42247.34252,urgent,4/11/2021,30
+71,Male,O-,arthritis,2/12/2022,scott-stewart,12068.76035,emergency,2/25/2022,13
+54,Female,A+,hypertension,6/16/2022,santos-harris,33834.65942,emergency,7/2/2022,16
+85,Female,AB+,hypertension,12/27/2019,brown plc,13924.72386,elective,1/23/2020,27
+73,Male,A-,arthritis,1/20/2022,benson-cunningham,37323.43729,elective,2/2/2022,13
+21,Male,A+,cancer,9/12/2022,"and walker, li gomez",32540.97415,emergency,9/19/2022,7
+41,Male,AB+,hypertension,12/17/2020,moore-arias,1538.394317,emergency,12/20/2020,3
+63,Male,A+,obesity,1/10/2022,cunningham group,33449.559,elective,1/12/2022,2
+21,Female,B-,asthma,1/15/2024,"pineda rhodes, and luna",18187.77166,emergency,2/6/2024,22
+70,Male,A+,hypertension,12/9/2021,"pearson, carroll and lane",943.1165335,elective,1/8/2022,30
+49,Male,AB-,obesity,8/5/2019,gonzalez-keith,45777.4365,elective,8/8/2019,3
+60,Female,AB-,cancer,2/17/2021,perez-henderson,20840.24292,urgent,3/14/2021,25
+29,Male,O+,diabetes,5/29/2019,davis-smith,38625.54343,urgent,6/26/2019,28
+46,Male,A+,cancer,8/28/2019,henderson inc,7837.564863,elective,9/20/2019,23
+55,Male,AB-,arthritis,3/15/2023,"williams, and diaz campbell",30299.19679,emergency,3/21/2023,6
+62,Male,AB+,obesity,2/5/2023,"finley salinas, jones and",13795.00468,urgent,2/23/2023,18
+71,Female,O+,hypertension,1/24/2024,"baker and barber baxter,",15645.72078,elective,2/11/2024,18
+18,Female,A-,cancer,1/2/2021,ltd marquez,47559.87976,elective,1/10/2021,8
+23,Male,AB-,obesity,7/12/2019,stuart inc,33991.20176,urgent,7/25/2019,13
+38,Male,O+,hypertension,9/27/2019,ltd dixon,48437.87959,urgent,9/30/2019,3
+30,Male,B+,obesity,6/18/2019,plc harris,20070.13948,urgent,7/16/2019,28
+39,Male,A-,diabetes,4/22/2022,carpenter-chen,39180.29909,elective,5/8/2022,16
+55,Female,AB-,arthritis,5/31/2020,ltd wilkinson,25474.50125,urgent,6/18/2020,18
+38,Male,O-,asthma,12/15/2021,miles-sanchez,18510.33015,elective,1/13/2022,29
+48,Female,B+,diabetes,3/17/2021,collins sons and,11884.32793,elective,4/13/2021,27
+26,Female,B+,asthma,10/5/2023,massey inc,3573.016429,emergency,10/18/2023,13
+68,Female,O+,obesity,11/15/2022,"baker and thompson, johnson",4084.515472,elective,12/14/2022,29
+60,Female,A+,obesity,12/23/2021,group robbins,10649.32841,urgent,12/30/2021,7
+72,Female,B+,diabetes,2/10/2020,white-stone,28756.2281,elective,2/16/2020,6
+23,Female,O+,cancer,6/11/2021,caldwell group,26424.34812,urgent,6/17/2021,6
+55,Male,AB+,arthritis,3/5/2022,brown-thompson,34602.10194,elective,3/14/2022,9
+59,Male,AB+,diabetes,11/22/2023,sons and morton,6216.406228,emergency,11/23/2023,1
+83,Male,O-,obesity,1/8/2021,and johnson sons,34770.74796,urgent,2/6/2021,29
+36,Female,A+,arthritis,7/31/2023,travis inc,27378.98791,elective,8/15/2023,15
+51,Male,A-,arthritis,8/10/2019,brooks llc,12297.0257,emergency,8/14/2019,4
+59,Male,B+,asthma,2/24/2020,"nguyen, simmons and johnson",43863.48441,elective,3/22/2020,27
+64,Female,AB+,arthritis,6/25/2021,"buck and delgado, rich",21690.79797,emergency,7/16/2021,21
+38,Male,B-,obesity,4/10/2022,snyder ltd,41134.78762,emergency,4/28/2022,18
+25,Female,B+,obesity,1/26/2020,"patton and mclaughlin, barr",4980.387475,emergency,2/19/2020,24
+52,Male,AB+,diabetes,6/26/2021,olson llc,4152.864724,emergency,6/27/2021,1
+80,Female,A-,obesity,3/21/2022,"foley, williams gonzales and",26459.13383,emergency,3/30/2022,9
+34,Female,A+,cancer,11/1/2022,melton ltd,22549.37964,emergency,11/18/2022,17
+32,Female,B+,obesity,10/11/2022,baker plc,45870.56019,urgent,11/6/2022,26
+42,Female,B+,obesity,6/13/2019,oconnor and sons,43131.25218,elective,7/12/2019,29
+37,Female,O-,arthritis,9/13/2020,"schmitt and montgomery, barber",16828.05197,urgent,10/13/2020,30
+20,Male,O-,cancer,5/26/2022,"and miller montoya, small",38270.26967,urgent,6/25/2022,30
+26,Female,A+,cancer,7/7/2021,"travis graham and whitehead,",40078.82105,urgent,7/17/2021,10
+21,Female,B+,diabetes,12/21/2023,thomas ltd,22757.58718,emergency,1/11/2024,21
+56,Female,O+,arthritis,1/30/2021,llc allen,9028.98361,emergency,2/26/2021,27
+20,Male,O+,diabetes,7/6/2022,king group,23436.74159,urgent,7/11/2022,5
+32,Male,AB-,arthritis,10/12/2022,lamb-hansen,45177.87574,urgent,11/11/2022,30
+47,Female,B+,arthritis,4/26/2023,plc haney,17353.78781,elective,5/16/2023,20
+47,Female,B-,cancer,2/6/2020,moss-jones,16670.01256,urgent,2/14/2020,8
+79,Female,AB-,obesity,9/21/2019,"meyer bishop and wallace,",22059.35976,urgent,10/6/2019,15
+48,Female,B+,cancer,3/11/2020,black and sons,34934.93538,emergency,3/14/2020,3
+44,Male,B+,cancer,4/30/2022,davis-bell,45625.23811,urgent,5/12/2022,12
+42,Male,AB-,arthritis,4/9/2020,"hill, murphy and stewart",11641.62885,emergency,4/11/2020,2
+78,Female,A+,diabetes,10/5/2020,"bryant and thomas, smith",16267.12661,elective,10/14/2020,9
+39,Female,O+,asthma,12/28/2019,sons and dawson,48038.21697,elective,1/5/2020,8
+67,Female,AB-,asthma,9/5/2023,"paul watts and perkins,",33118.52902,emergency,9/14/2023,9
+40,Female,AB-,obesity,8/12/2022,williams-gordon,28087.59444,urgent,9/1/2022,20
+30,Female,AB-,diabetes,2/17/2024,"and chapman payne, werner",42500.59067,emergency,2/18/2024,1
+69,Female,B+,asthma,5/21/2019,"thomas, green and barron",47980.91717,urgent,6/18/2019,28
+29,Female,A-,arthritis,11/30/2019,lambert-brandt,27191.41891,emergency,12/22/2019,22
+82,Male,B-,diabetes,1/29/2023,group sparks,11425.8885,elective,2/4/2023,6
+56,Male,A-,cancer,6/21/2019,inc swanson,30414.76633,urgent,7/11/2019,20
+84,Male,B-,asthma,6/17/2023,"mclaughlin, and tucker francis",7566.859307,urgent,7/17/2023,30
+43,Female,B-,obesity,7/24/2022,inc copeland,34815.75497,emergency,7/28/2022,4
+79,Female,AB-,arthritis,1/28/2022,ltd smith,18609.89817,elective,2/18/2022,21
+22,Female,B+,arthritis,7/31/2022,brown llc,25233.8924,elective,8/28/2022,28
+73,Male,B+,cancer,5/5/2023,"hodges brown, munoz and",12339.95861,elective,5/28/2023,23
+84,Male,A-,asthma,8/31/2020,robinson-ritter,38440.92707,urgent,9/28/2020,28
+49,Male,A-,obesity,5/13/2022,"green, howell and jordan",7147.966202,emergency,6/5/2022,23
+54,Male,AB+,cancer,12/4/2019,plc garcia,24755.02643,emergency,12/30/2019,26
+59,Male,B-,cancer,4/6/2023,"fox, and lucas cain",39553.11649,emergency,4/21/2023,15
+55,Male,B+,hypertension,10/8/2022,and lee sons,48590.77273,urgent,11/6/2022,29
+27,Male,A-,asthma,7/22/2023,petty-lloyd,32806.48774,elective,8/11/2023,20
+38,Male,O+,cancer,10/19/2021,kelly plc,18647.82144,urgent,11/1/2021,13
+55,Female,B+,arthritis,12/5/2021,conley-wood,50378.30056,emergency,12/11/2021,6
+46,Male,A-,diabetes,9/24/2023,choi plc,31263.32985,emergency,10/6/2023,12
+40,Female,A+,hypertension,12/3/2021,yu-bryant,14273.01116,urgent,12/14/2021,11
+21,Male,A+,arthritis,2/6/2020,llc chavez,20549.25907,elective,2/16/2020,10
+81,Male,O-,hypertension,7/30/2023,"mills and young, perry",48799.38533,emergency,8/11/2023,12
+40,Female,O-,hypertension,3/25/2020,sims-castro,16572.9003,emergency,4/7/2020,13
+60,Male,O-,arthritis,2/25/2021,gonzalez llc,4224.21845,urgent,3/15/2021,18
+58,Female,B+,hypertension,10/25/2020,"hall and montgomery king,",39053.04523,elective,11/14/2020,20
+54,Male,A+,asthma,8/7/2021,ingram-collins,35554.17155,elective,8/26/2021,19
+60,Male,A+,diabetes,1/21/2023,watkins group,7613.45094,urgent,2/7/2023,17
+52,Female,O+,diabetes,7/30/2023,group smith,18798.1153,urgent,8/23/2023,24
+49,Male,A+,obesity,9/25/2023,carpenter plc,35740.55032,elective,10/4/2023,9
+38,Male,B+,diabetes,3/29/2020,sons and davis,15415.38808,emergency,4/19/2020,21
+55,Female,B+,diabetes,8/10/2023,"ellis, and smith black",18628.70184,emergency,8/30/2023,20
+59,Female,B-,cancer,6/4/2023,aguilar-moreno,30451.23586,urgent,6/20/2023,16
+72,Female,O-,obesity,3/26/2021,inc howard,5471.729817,emergency,4/25/2021,30
+55,Female,B+,arthritis,11/15/2020,goodwin-lawrence,22348.1071,emergency,12/6/2020,21
+85,Male,B-,arthritis,5/12/2019,plc hoffman,36307.54118,urgent,5/16/2019,4
+18,Female,AB-,arthritis,5/20/2019,acosta group,37941.37825,urgent,6/15/2019,26
+58,Female,A-,cancer,1/3/2024,"murray, gilbert and crawford",15648.78728,elective,1/26/2024,23
+76,Male,B+,arthritis,5/17/2020,group blake,14572.19984,emergency,5/23/2020,6
+82,Female,O+,hypertension,10/3/2022,"price, neal and mcpherson",35789.99459,elective,10/31/2022,28
+66,Female,O-,asthma,9/24/2020,group davis,26911.22299,elective,9/26/2020,2
+84,Female,B-,diabetes,10/12/2019,"sellers and nelson, anderson",37571.3757,urgent,10/31/2019,19
+62,Male,A+,obesity,3/11/2022,gordon-foster,17370.82595,urgent,3/28/2022,17
+38,Male,AB-,obesity,11/3/2021,boyd ltd,35489.4586,elective,12/3/2021,30
+70,Male,A+,obesity,1/21/2023,cole inc,47443.61136,emergency,2/14/2023,24
+63,Male,B-,obesity,2/14/2020,matthews group,49376.06353,elective,3/2/2020,17
+27,Female,AB-,asthma,8/17/2023,plc clarke,27601.5494,urgent,8/19/2023,2
+29,Female,O+,hypertension,8/30/2020,graham-smith,20455.45829,elective,9/1/2020,2
+65,Female,A+,obesity,5/6/2020,reynolds and sons,11492.78839,emergency,5/15/2020,9
+26,Female,B+,hypertension,3/25/2024,adams-kim,46094.97544,elective,3/30/2024,5
+53,Male,B-,cancer,11/8/2020,sons and good,17616.10084,elective,11/16/2020,8
+46,Female,A-,cancer,9/9/2019,"howell, young potts and",46961.57544,urgent,9/23/2019,14
+25,Male,B+,asthma,5/29/2019,"martinez, reed watts and",21951.53638,emergency,6/27/2019,29
+18,Male,A+,cancer,2/22/2021,llc massey,29003.53535,elective,3/16/2021,22
+67,Female,B-,obesity,5/1/2021,lewis-fletcher,18561.27058,emergency,5/26/2021,25
+25,Female,B-,cancer,5/4/2022,"and harmon brown, cabrera",50081.1319,elective,5/17/2022,13
+24,Male,AB+,obesity,6/27/2023,wagner llc,39018.76747,emergency,7/9/2023,12
+47,Male,AB+,hypertension,5/5/2023,inc johnson,20071.99922,urgent,5/18/2023,13
+69,Male,A-,asthma,9/22/2019,inc taylor,30828.63361,emergency,9/26/2019,4
+18,Female,B-,cancer,10/22/2023,steele-robinson,47337.95535,elective,11/16/2023,25
+53,Male,A+,hypertension,9/2/2021,"berry and fischer, wells",45053.27038,elective,9/9/2021,7
+45,Male,O-,obesity,6/30/2021,benson-cook,32095.92606,urgent,7/29/2021,29
+50,Female,AB-,cancer,1/28/2024,montes-evans,12150.46721,urgent,2/1/2024,4
+51,Female,AB+,diabetes,5/19/2022,ortega ltd,43474.51877,urgent,5/28/2022,9
+34,Male,B-,arthritis,9/21/2022,"and rose stewart, davis",10830.60839,elective,10/8/2022,17
+80,Male,B-,arthritis,12/6/2020,melendez llc,18251.21188,elective,12/11/2020,5
+19,Female,A-,obesity,4/7/2023,vazquez-brown,44731.27088,urgent,5/5/2023,28
+49,Male,AB-,diabetes,10/30/2022,warren-bowman,32574.83723,emergency,11/15/2022,16
+46,Male,B+,hypertension,11/12/2019,"brown reed robinson, and",19479.44701,urgent,12/5/2019,23
+63,Male,AB-,arthritis,8/23/2020,ltd peterson,44981.16665,emergency,9/15/2020,23
+75,Male,AB+,hypertension,1/11/2021,moore-taylor,20198.74274,elective,1/22/2021,11
+59,Female,A-,cancer,10/17/2019,stewart-dominguez,40055.59415,urgent,11/8/2019,22
+18,Male,A-,obesity,5/9/2019,lamb-herrera,8906.669679,urgent,6/2/2019,24
+68,Male,AB+,hypertension,6/20/2020,and sons morrison,14590.35376,urgent,7/1/2020,11
+72,Male,O-,cancer,7/21/2020,ellis-roberson,42853.98906,emergency,8/18/2020,28
+79,Female,AB-,asthma,5/22/2019,"and glover christensen, jackson",41102.28023,emergency,6/7/2019,16
+74,Male,B+,hypertension,9/15/2019,"alvarez austin snyder, and",21513.52658,emergency,10/11/2019,26
+56,Male,B+,diabetes,12/23/2019,erickson-rodriguez,37330.16092,emergency,1/7/2020,15
+80,Female,A-,cancer,7/25/2020,"and daniel bryan brown,",4250.200821,urgent,8/11/2020,17
+83,Male,AB-,diabetes,11/15/2019,sons and sanchez,22561.88367,emergency,12/7/2019,22
+69,Male,B-,diabetes,9/15/2020,costa llc,35662.19842,elective,9/18/2020,3
+84,Female,O-,hypertension,8/8/2023,coleman-aguilar,34961.90671,emergency,9/1/2023,24
+60,Male,AB-,asthma,5/23/2021,plc morrison,25999.13335,elective,6/20/2021,28
+49,Female,AB-,asthma,7/22/2020,jones-graham,25594.55847,urgent,8/12/2020,21
+63,Male,A+,cancer,6/1/2022,ltd brown,21380.19723,elective,6/21/2022,20
+21,Male,A-,diabetes,1/1/2024,"bell and davis ross,",12063.94848,elective,1/14/2024,13
+28,Female,O+,asthma,4/25/2024,"allen garcia and wolf,",25702.29961,elective,5/25/2024,30
+77,Male,O+,asthma,8/30/2019,"lin chan, and moreno",35252.89353,emergency,9/6/2019,7
+34,Male,A-,cancer,3/3/2023,"dennis, and hood guerra",11175.23087,urgent,3/22/2023,19
+83,Female,A-,obesity,1/16/2020,inc mercer,42510.68779,emergency,2/3/2020,18
+33,Female,B-,arthritis,3/15/2024,garrett plc,7475.740733,elective,3/20/2024,5
+39,Male,O+,diabetes,10/12/2022,rollins-garrett,6117.893628,elective,11/6/2022,25
+31,Female,B+,hypertension,3/1/2020,"medina, and allen wilkins",15092.0751,elective,3/6/2020,5
+75,Female,O+,hypertension,5/25/2022,llc smith,13354.51423,elective,6/2/2022,8
+44,Male,O-,hypertension,5/4/2021,martin group,9911.678076,elective,5/11/2021,7
+43,Female,O+,hypertension,6/20/2023,"hayes and miller, sawyer",37095.59318,urgent,6/24/2023,4
+84,Female,B+,obesity,1/9/2020,"and phelps burke fields,",20737.6363,emergency,2/6/2020,28
+21,Female,AB-,arthritis,1/29/2024,inc smith,24809.71744,elective,2/20/2024,22
+49,Male,A+,cancer,10/14/2021,"and smith conway, byrd",31511.11965,elective,11/1/2021,18
+50,Female,O+,cancer,1/11/2020,llc roberts,23498.4548,elective,2/10/2020,30
+31,Male,B+,diabetes,8/24/2021,sons gonzalez and,21915.77878,urgent,8/25/2021,1
+40,Male,B+,diabetes,12/7/2020,"johnson kirby and richard,",7868.688582,urgent,12/10/2020,3
+68,Female,O+,diabetes,12/13/2021,llc ware,21747.8298,urgent,1/1/2022,19
+41,Female,AB-,cancer,1/3/2024,"thomas and nguyen, king",26036.67356,emergency,1/16/2024,13
+84,Male,A-,asthma,11/29/2019,bruce-thomas,27480.23809,urgent,12/24/2019,25
+70,Male,A-,asthma,9/8/2019,"baldwin, and roberts ray",31266.8353,urgent,9/23/2019,15
+30,Female,O+,arthritis,1/12/2021,horton-hines,36081.22098,elective,2/4/2021,23
+57,Male,O+,obesity,10/9/2020,"and lewis, hardy cooper",24346.51943,urgent,11/7/2020,29
+63,Male,B-,cancer,9/24/2023,moore group,4022.198689,elective,10/10/2023,16
+55,Male,A+,hypertension,10/4/2022,nelson-hawkins,31632.73898,urgent,10/11/2022,7
+30,Female,A+,asthma,6/24/2019,llc martinez,29806.71822,elective,6/25/2019,1
+45,Male,O-,arthritis,3/22/2022,ross llc,5956.234238,urgent,4/1/2022,10
+75,Female,B+,cancer,4/30/2023,graves llc,1493.077679,emergency,5/30/2023,30
+42,Female,A+,cancer,2/6/2024,"cowan cardenas allen, and",6257.128988,elective,2/27/2024,21
+82,Male,A+,arthritis,4/9/2024,plc mann,32968.23319,emergency,5/1/2024,22
+18,Female,A-,arthritis,12/1/2021,inc lopez,35732.34535,urgent,12/18/2021,17
+58,Female,AB-,arthritis,10/3/2020,llc gonzalez,13975.26996,urgent,10/30/2020,27
+69,Female,B-,asthma,1/6/2023,lee-white,14108.6624,elective,1/7/2023,1
+69,Female,A-,arthritis,2/25/2022,rodriguez-beck,44253.71985,urgent,2/26/2022,1
+47,Male,AB+,diabetes,9/19/2019,king-garza,23136.6674,emergency,10/1/2019,12
+35,Male,AB+,diabetes,5/13/2020,"and nelson blake, gutierrez",38101.6256,elective,5/25/2020,12
+44,Male,O-,hypertension,6/14/2019,willis-dixon,24947.58794,elective,7/7/2019,23
+76,Male,AB-,diabetes,4/29/2021,"arnold, steele scott and",9632.876199,urgent,5/16/2021,17
+23,Female,O+,diabetes,11/7/2023,sharp-greer,11209.41585,emergency,12/5/2023,28
+82,Female,A-,diabetes,5/13/2020,"jones, valentine pacheco and",15850.20524,urgent,6/7/2020,25
+37,Male,AB-,obesity,7/14/2020,burns llc,28367.19225,urgent,7/23/2020,9
+79,Female,A+,diabetes,10/12/2021,"floyd and williams stephenson,",49784.88625,elective,10/13/2021,1
+61,Female,AB-,obesity,10/23/2020,"smith, singh and gonzales",16155.88013,emergency,11/15/2020,23
+48,Male,O-,hypertension,3/3/2024,smith-smith,5352.549488,urgent,3/27/2024,24
+70,Female,A-,arthritis,3/11/2020,"jenkins, jenkins and patterson",44693.69114,elective,4/7/2020,27
+37,Female,O+,diabetes,8/29/2023,"duran mendoza and scott,",8656.283524,emergency,9/8/2023,10
+40,Male,AB-,obesity,6/17/2020,frye group,27009.21241,emergency,7/5/2020,18
+39,Female,AB+,diabetes,2/26/2023,harding-adams,24977.26728,urgent,3/28/2023,30
+76,Male,A+,arthritis,2/8/2021,lopez group,12282.27946,urgent,2/12/2021,4
+74,Male,B+,cancer,1/8/2022,powell inc,12989.2451,emergency,1/26/2022,18
+65,Male,B-,cancer,2/10/2023,duran-scott,22805.14825,urgent,3/10/2023,28
+44,Female,AB-,diabetes,9/3/2020,llc fletcher,8194.526805,emergency,9/24/2020,21
+80,Female,B-,hypertension,5/14/2019,smith-hicks,39605.89074,emergency,5/15/2019,1
+48,Male,A+,asthma,6/2/2023,llc dickerson,50838.48296,elective,6/27/2023,25
+76,Male,AB-,hypertension,2/1/2023,guerrero group,34020.24959,urgent,2/28/2023,27
+65,Female,AB-,hypertension,10/6/2022,"and gardner torres, rosario",43940.13607,emergency,10/23/2022,17
+52,Male,B+,diabetes,4/30/2024,wilson sons and,6789.917912,urgent,5/19/2024,19
+19,Male,A-,arthritis,5/15/2020,plc rivera,12073.32874,elective,5/21/2020,6
+26,Male,A-,diabetes,4/17/2024,plc holmes,29283.60403,emergency,4/22/2024,5
+31,Female,O-,obesity,9/17/2019,"taylor mcintosh and ross,",14265.93681,emergency,10/17/2019,30
+84,Male,A+,hypertension,6/16/2019,anderson-miller,25664.35254,emergency,6/30/2019,14
+54,Male,A+,asthma,5/4/2021,martin-terry,29245.2546,emergency,5/15/2021,11
+84,Female,B-,cancer,1/6/2022,inc meyer,24557.9354,urgent,1/9/2022,3
+82,Male,O-,diabetes,8/12/2020,plc phillips,23437.29608,emergency,9/7/2020,26
+22,Female,AB+,hypertension,9/21/2022,"schneider and hopkins oconnor,",12074.06857,urgent,9/29/2022,8
+76,Male,AB-,arthritis,10/4/2022,bauer inc,26434.27121,urgent,10/7/2022,3
+26,Male,A-,obesity,10/23/2023,cowan inc,38142.10968,urgent,11/18/2023,26
+77,Male,B+,asthma,7/4/2022,burns-callahan,3825.092545,elective,7/30/2022,26
+77,Female,A-,obesity,3/31/2022,moore-smith,28157.61795,emergency,4/21/2022,21
+43,Male,AB+,hypertension,3/3/2020,"taylor johnson, beasley and",44211.0167,urgent,3/15/2020,12
+18,Female,O+,hypertension,1/8/2021,"young wright davis, and",21072.76747,elective,1/28/2021,20
+71,Male,B+,diabetes,8/17/2021,"wood and murphy jones,",25100.38028,emergency,9/7/2021,21
+77,Male,A-,hypertension,2/14/2024,"gonzalez and stevens ruiz,",34006.63002,urgent,2/18/2024,4
+34,Male,AB-,hypertension,7/8/2021,willis-mcgee,15343.04277,emergency,7/21/2021,13
+63,Male,B+,diabetes,8/29/2019,williams-meza,39934.84129,urgent,9/21/2019,23
+77,Male,A+,obesity,7/20/2023,"king weiss, and west",42829.63252,urgent,8/14/2023,25
+70,Male,A-,diabetes,10/10/2019,benson plc,26499.41643,urgent,10/27/2019,17
+26,Male,O-,hypertension,11/12/2019,"morgan and wilcox barnett,",47839.77039,urgent,11/16/2019,4
+36,Male,O+,asthma,3/9/2020,rubio llc,45412.65981,emergency,4/3/2020,25
+68,Female,A+,hypertension,8/23/2021,"lee chambers, and foley",45476.56159,emergency,9/18/2021,26
+51,Male,O+,asthma,10/10/2023,hurley ltd,44926.67392,emergency,10/15/2023,5
+46,Female,O-,arthritis,3/10/2021,plc trujillo,8017.510404,urgent,3/12/2021,2
+58,Male,A-,arthritis,9/7/2022,henson-harmon,27565.26066,emergency,9/29/2022,22
+38,Female,AB-,hypertension,7/4/2023,jacobs-howell,44442.61096,emergency,7/17/2023,13
+55,Female,O+,arthritis,6/21/2022,williams plc,27643.3234,elective,6/28/2022,7
+77,Male,O-,cancer,7/5/2019,martin plc,27530.22948,elective,7/15/2019,10
+72,Female,B+,hypertension,2/10/2020,"mata norman, holmes and",47601.55168,emergency,2/14/2020,4
+26,Female,B+,arthritis,9/12/2022,brown llc,36680.26971,urgent,9/19/2022,7
+29,Female,O-,asthma,6/14/2021,ward-crosby,29560.98617,urgent,7/1/2021,17
+85,Female,A-,cancer,2/9/2021,wong-booth,49121.41107,urgent,3/9/2021,28
+37,Female,A+,cancer,11/16/2023,"and valencia flores, byrd",35722.02235,emergency,12/3/2023,17
+69,Female,A-,asthma,3/21/2021,collins-gutierrez,11202.34669,elective,3/25/2021,4
+27,Male,B-,diabetes,6/23/2021,"cameron black davis, and",31555.50057,urgent,7/23/2021,30
+77,Male,B+,obesity,5/14/2023,group rivera,44075.25208,urgent,5/27/2023,13
+55,Female,B-,obesity,2/1/2024,plc davis,26408.46916,elective,2/21/2024,20
+75,Male,O+,arthritis,6/20/2023,ltd taylor,43770.11791,emergency,7/8/2023,18
+74,Female,O-,asthma,12/5/2019,"anderson, smith smith and",3353.635419,emergency,12/6/2019,1
+38,Male,B+,asthma,11/22/2021,"and walker smith cannon,",34469.85259,emergency,12/2/2021,10
+61,Male,AB-,asthma,7/29/2023,williams llc,30304.55838,emergency,8/14/2023,16
+38,Female,AB+,obesity,5/24/2019,ayers-alvarez,20022.79446,urgent,6/16/2019,23
+28,Male,A+,cancer,10/27/2020,"walsh alexander, and dennis",19993.53849,emergency,11/11/2020,15
+65,Male,A-,obesity,9/18/2020,nelson plc,29921.44307,elective,10/9/2020,21
+44,Female,O-,arthritis,5/16/2020,group kim,36508.84805,elective,5/26/2020,10
+58,Male,B-,obesity,5/15/2020,hess sons and,26697.18254,urgent,6/11/2020,27
+38,Female,AB+,obesity,6/26/2021,"cardenas, and fields nichols",4289.026756,elective,6/30/2021,4
+49,Female,A-,asthma,2/10/2021,"fisher kirk, and becker",34804.88396,urgent,2/16/2021,6
+35,Female,A-,obesity,5/23/2020,jenkins-jackson,2280.744969,urgent,6/22/2020,30
+45,Female,O+,cancer,9/23/2020,"jackson hammond and garcia,",3290.147401,elective,10/16/2020,23
+41,Male,A-,arthritis,6/23/2023,inc miller,44839.30594,emergency,6/27/2023,4
+77,Female,A+,hypertension,10/21/2021,llc smith,15018.44215,elective,10/24/2021,3
+66,Female,O+,hypertension,9/27/2022,schroeder-walker,23094.17705,urgent,10/5/2022,8
+72,Female,A+,arthritis,11/12/2020,"mcguire and wheeler, morris",49032.03427,urgent,12/9/2020,27
+85,Female,A+,asthma,10/30/2023,washington-sanchez,27783.86721,urgent,11/25/2023,26
+52,Male,A+,diabetes,1/20/2022,dawson-baker,16660.53007,urgent,2/15/2022,26
+78,Male,B+,cancer,12/14/2021,llc perez,28921.58546,emergency,1/5/2022,22
+55,Female,A+,arthritis,4/13/2022,sons and olson,27100.22247,elective,4/22/2022,9
+19,Male,B-,obesity,3/27/2024,bell-thomas,37309.35216,emergency,3/31/2024,4
+47,Male,A-,cancer,3/18/2024,thompson-thomas,23995.1474,urgent,3/21/2024,3
+41,Female,B+,arthritis,1/6/2023,"kelly johnson, parker and",43882.30153,elective,1/28/2023,22
+36,Female,O+,cancer,9/3/2019,"tanner smith miller, and",21561.77239,urgent,9/5/2019,2
+77,Female,O+,asthma,2/9/2023,"johnson and doyle, collins",44206.1349,emergency,3/3/2023,22
+55,Male,B-,hypertension,3/31/2022,inc taylor,17463.2424,urgent,4/3/2022,3
+50,Female,AB-,obesity,12/15/2019,inc williams,45885.54827,emergency,1/5/2020,21
+72,Female,AB-,arthritis,3/12/2022,king-henry,7538.411978,urgent,3/20/2022,8
+58,Male,AB+,diabetes,3/4/2023,"cruz and hahn, gibbs",7138.206761,urgent,3/14/2023,10
+76,Male,AB-,hypertension,8/25/2019,"and higgins mckay, cruz",17338.24645,elective,9/23/2019,29
+50,Female,AB-,obesity,4/27/2022,johnson-mitchell,7093.997462,emergency,5/13/2022,16
+40,Male,AB+,diabetes,1/29/2024,"vincent, walker parsons and",32956.18445,elective,2/26/2024,28
+38,Male,AB+,diabetes,3/13/2021,collins-mcdonald,17765.6837,urgent,3/18/2021,5
+31,Male,AB+,arthritis,11/28/2023,kelly-tapia,30988.29632,emergency,12/7/2023,9
+82,Male,AB-,asthma,5/25/2020,williams-peterson,14168.50089,elective,5/30/2020,5
+25,Female,O+,hypertension,2/1/2022,llc merritt,11167.10926,urgent,2/20/2022,19
+84,Female,B+,diabetes,2/6/2020,ryan-miller,16972.59548,emergency,2/8/2020,2
+28,Male,B-,obesity,2/8/2024,mcintosh-cantu,44867.88629,urgent,3/8/2024,29
+70,Female,B+,hypertension,2/9/2023,plc hill,7754.756924,elective,2/13/2023,4
+63,Male,B+,cancer,12/15/2020,"and perkins, long herring",28356.68597,urgent,12/23/2020,8
+70,Female,AB+,asthma,2/29/2024,"russell, and barnett williams",12869.42849,emergency,3/16/2024,16
+66,Female,B+,hypertension,2/18/2024,lambert-richardson,49125.37574,urgent,3/11/2024,22
+72,Female,A+,hypertension,7/2/2023,"morgan, stephenson and frazier",19950.75547,emergency,7/17/2023,15
+76,Female,AB+,diabetes,5/30/2020,"taylor reyes and bowers,",9747.668093,urgent,6/19/2020,20
+84,Male,AB-,asthma,4/16/2021,plc gaines,44452.66811,emergency,4/17/2021,1
+53,Male,AB+,hypertension,9/16/2021,"and neal vargas, welch",40786.35448,elective,10/15/2021,29
+31,Male,B-,hypertension,7/23/2021,howe-mitchell,28062.07813,elective,8/13/2021,21
+67,Male,AB-,arthritis,3/12/2021,becker llc,1061.078137,urgent,4/7/2021,26
+56,Male,A-,diabetes,5/26/2019,vargas-walker,13670.11031,urgent,6/18/2019,23
+25,Male,A-,obesity,11/1/2023,henderson-cruz,20161.43741,urgent,11/19/2023,18
+84,Female,AB+,hypertension,6/11/2022,holt-hale,2080.255947,elective,6/15/2022,4
+80,Male,A-,arthritis,3/11/2022,"and cohen nelson, davidson",30322.53267,urgent,4/9/2022,29
+41,Male,A-,asthma,4/3/2023,brooks plc,33256.48914,elective,4/16/2023,13
+70,Female,A-,obesity,3/24/2021,and sons curry,47469.17733,elective,4/11/2021,18
+38,Female,AB+,obesity,7/9/2021,group owens,17150.15843,elective,7/26/2021,17
+74,Female,O+,asthma,1/20/2021,group peters,-109.097122,emergency,2/9/2021,20
+32,Female,A-,diabetes,5/22/2020,"vang, and cook moore",44695.26174,emergency,6/14/2020,23
+29,Male,A-,hypertension,9/19/2022,sons and lewis,15157.87703,elective,10/2/2022,13
+77,Male,AB-,arthritis,8/12/2023,"haynes lopez and simon,",23545.37994,urgent,8/17/2023,5
+56,Female,O+,obesity,8/9/2020,walker sons and,17461.85469,elective,9/1/2020,23
+54,Female,O+,arthritis,6/19/2023,"and leon anderson, arnold",21623.03531,emergency,7/13/2023,24
+77,Female,O+,asthma,9/3/2019,santana-thomas,2810.262624,emergency,9/27/2019,24
+21,Female,O+,hypertension,10/16/2022,hayes ltd,31420.52747,urgent,10/25/2022,9
+36,Female,AB-,asthma,10/31/2021,baker-gill,49675.00926,elective,11/26/2021,26
+36,Male,B+,diabetes,8/19/2022,cook-fischer,18598.20178,urgent,9/10/2022,22
+32,Male,A-,obesity,8/9/2023,garcia-nichols,22810.13596,urgent,9/7/2023,29
+38,Female,O-,asthma,12/2/2020,llc baker,35251.71977,emergency,12/16/2020,14
+73,Male,AB-,cancer,8/23/2019,gallegos ltd,39611.23922,emergency,9/2/2019,10
+79,Male,AB+,diabetes,9/14/2021,"nash stevenson and martinez,",26350.00344,emergency,9/16/2021,2
+55,Female,B-,cancer,4/21/2020,miller-bell,1934.751642,urgent,5/21/2020,30
+58,Male,AB+,asthma,8/7/2023,"gray and harris, oneal",23771.68922,urgent,8/28/2023,21
+61,Female,B+,cancer,7/13/2020,ltd carter,28761.3627,urgent,7/29/2020,16
+45,Male,B-,asthma,7/31/2019,sons hodges and,47629.61502,emergency,8/11/2019,11
+34,Female,O+,hypertension,5/11/2022,henderson and sons,2851.515446,elective,5/29/2022,18
+31,Female,A-,cancer,2/3/2021,"frey and leon espinoza,",9829.914582,urgent,2/28/2021,25
+37,Female,AB-,diabetes,11/23/2023,barnett llc,22039.67764,elective,11/27/2023,4
+48,Female,A+,hypertension,1/31/2023,ramos-simon,25487.49167,emergency,2/21/2023,21
+67,Male,A+,hypertension,4/20/2024,cook-hurst,22506.85995,urgent,4/29/2024,9
+78,Female,O+,cancer,11/20/2023,ramirez-hebert,30659.37583,emergency,12/10/2023,20
+42,Female,B-,arthritis,7/5/2019,"frank hernandez, taylor and",30046.27894,emergency,7/24/2019,19
+61,Female,AB+,arthritis,6/2/2019,parker-petersen,42966.49937,elective,6/19/2019,17
+64,Male,B+,cancer,4/6/2020,"medina, wright and shaffer",49899.94595,urgent,4/11/2020,5
+31,Female,A-,diabetes,4/5/2022,"and grant hamilton edwards,",2924.472824,urgent,4/12/2022,7
+79,Male,AB-,obesity,6/26/2019,plc hunt,12412.10833,urgent,7/21/2019,25
+80,Male,O-,cancer,3/15/2023,"and webb robinson, hicks",752.0328994,urgent,4/14/2023,30
+83,Male,AB-,hypertension,8/26/2022,"collins woodward martinez, and",26023.36131,elective,9/5/2022,10
+27,Male,B+,hypertension,2/6/2020,"hale garner, schultz and",14917.96281,elective,2/18/2020,12
+30,Female,B-,asthma,3/19/2024,inc anderson,43838.29198,elective,3/26/2024,7
+39,Male,AB-,obesity,7/7/2022,"garcia duncan peters, and",38136.61348,elective,7/14/2022,7
+41,Male,AB+,diabetes,1/19/2024,"and english sanders, wilcox",48413.77488,emergency,2/8/2024,20
+78,Female,A-,diabetes,1/13/2022,moore-myers,37669.6891,emergency,2/3/2022,21
+25,Male,B-,cancer,4/26/2020,and reeves sons,34789.05006,emergency,4/28/2020,2
+53,Male,AB+,asthma,12/21/2023,"walker, and webb morton",13907.10713,elective,1/20/2024,30
+22,Female,AB+,hypertension,1/4/2020,"thompson ritter austin, and",41270.61338,emergency,1/19/2020,15
+65,Male,A+,arthritis,2/8/2020,"and moyer powell, padilla",6239.649914,elective,2/14/2020,6
+37,Female,AB-,diabetes,4/29/2022,nelson-edwards,14265.81162,elective,5/13/2022,14
+25,Female,B+,arthritis,4/5/2020,llc english,16520.92307,elective,4/20/2020,15
+62,Female,O+,arthritis,12/2/2019,jones-lee,35057.11283,emergency,12/9/2019,7
+38,Male,A-,asthma,3/19/2021,reed-medina,4218.549435,elective,4/8/2021,20
+58,Female,B-,asthma,10/7/2023,inc stevens,36771.41218,emergency,10/8/2023,1
+44,Male,A+,obesity,9/10/2021,"rodriguez and becker holmes,",35520.39682,urgent,10/8/2021,28
+62,Male,O+,asthma,10/14/2021,"jacobs owens smith, and",7656.635668,emergency,10/29/2021,15
+46,Female,AB+,diabetes,10/24/2023,davis-nguyen,34599.40943,urgent,10/29/2023,5
+29,Male,B-,arthritis,12/28/2022,"moore cooper, wilson and",2436.52059,urgent,1/15/2023,18
+35,Female,O+,diabetes,12/31/2023,"and salazar, gonzales jones",32680.60699,emergency,1/4/2024,4
+46,Female,B+,asthma,2/7/2022,hunt inc,1790.315235,urgent,2/23/2022,16
+85,Male,A+,hypertension,6/12/2020,plc cox,2284.429475,urgent,6/14/2020,2
+37,Female,AB-,diabetes,10/16/2022,"welch carr and kennedy,",37152.64529,emergency,10/28/2022,12
+62,Female,AB-,cancer,1/11/2022,group stein,21169.11422,emergency,1/15/2022,4
+45,Female,B+,asthma,11/13/2022,taylor inc,31028.00119,elective,11/16/2022,3
+33,Male,O-,arthritis,7/24/2022,kidd inc,1468.243831,urgent,8/14/2022,21
+44,Female,AB+,obesity,6/25/2019,"hurst, thompson and walls",35284.16727,urgent,7/10/2019,15
+29,Female,AB-,asthma,6/19/2020,black-stevens,4288.608248,urgent,7/8/2020,19
+35,Female,AB+,diabetes,2/6/2020,"collins and murray taylor,",19769.29293,elective,2/24/2020,18
+45,Female,A+,hypertension,12/17/2023,"wilson whitney henderson, and",30430.10013,urgent,1/12/2024,26
+49,Female,B-,cancer,8/5/2022,"vaughan, adams and garcia",38716.05419,urgent,8/11/2022,6
+39,Male,O+,asthma,9/28/2020,vazquez and sons,15563.56602,urgent,10/5/2020,7
+80,Male,O+,obesity,9/16/2020,"aguilar mullins and schmidt,",27670.952,elective,10/13/2020,27
+80,Female,A-,hypertension,1/27/2020,rivera-norton,10757.12292,emergency,2/21/2020,25
+51,Male,A-,asthma,6/11/2020,"williams, and howard meyer",43582.94096,emergency,6/16/2020,5
+70,Female,B-,arthritis,12/4/2019,robbins-wiggins,27005.53429,emergency,1/2/2020,29
+68,Male,A+,diabetes,12/5/2020,"and hess, nguyen everett",6078.838575,emergency,12/18/2020,13
+49,Male,A-,cancer,5/22/2021,holland-brown,49343.01703,urgent,6/8/2021,17
+54,Female,O+,asthma,6/2/2022,santiago plc,16515.75591,urgent,6/7/2022,5
+81,Male,B-,arthritis,7/31/2022,hensley-shepard,49000.22655,urgent,8/22/2022,22
+55,Female,B+,obesity,8/16/2019,maldonado-white,31484.41349,emergency,9/5/2019,20
+34,Male,AB-,diabetes,2/8/2022,"mcmahon, and steele rose",24701.86616,urgent,3/3/2022,23
+22,Male,A+,diabetes,3/23/2021,"holmes, vasquez sanchez and",18831.83241,urgent,4/22/2021,30
+74,Male,A+,cancer,2/17/2021,hall-johnson,44439.43189,urgent,2/18/2021,1
+72,Female,O+,diabetes,6/1/2019,plc jacobs,6899.394974,urgent,6/18/2019,17
+75,Female,A+,obesity,9/24/2020,williams-hill,44516.09119,emergency,9/26/2020,2
+63,Male,B-,cancer,8/1/2019,petty ltd,16396.32384,emergency,8/26/2019,25
+32,Female,A-,arthritis,5/31/2021,lopez inc,3916.004572,urgent,6/22/2021,22
+78,Female,O+,diabetes,9/15/2022,plc conway,28106.0821,emergency,9/19/2022,4
